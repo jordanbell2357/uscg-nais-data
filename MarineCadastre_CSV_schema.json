@@ -1,0 +1,104 @@
+[
+  {
+    "description": "Maritime Mobile Service Identity value",
+    "mode": "REQUIRED",
+    "name": "MMSI",
+    "type": "STRING"
+  },
+  {
+    "description": "Full UTC date and time",
+    "mode": "REQUIRED",
+    "name": "BaseDateTime",
+    "type": "TIMESTAMP"
+  },
+  {
+    "description": "decimal degrees. Latitude",
+    "mode": "REQUIRED",
+    "name": "LAT",
+    "type": "FLOAT"
+  },
+  {
+    "description": "decimal degrees. Longitude",
+    "mode": "REQUIRED",
+    "name": "LON",
+    "type": "FLOAT"
+  },
+  {
+    "description": "knots. Speed Over Ground",
+    "mode": "REQUIRED",
+    "name": "SOG",
+    "type": "FLOAT"
+  },
+  {
+    "description": "degrees. Course Over Ground",
+    "mode": "REQUIRED",
+    "name": "COG",
+    "type": "FLOAT"
+  },
+  {
+    "description": "degrees. True heading angle",
+    "mode": "REQUIRED",
+    "name": "Heading",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Name as shown on the station radio license",
+    "mode": "NULLABLE",
+    "name": "VesselName",
+    "type": "STRING"
+  },
+  {
+    "description": "International Maritime Organization Vessel number",
+    "mode": "NULLABLE",
+    "name": "IMO",
+    "type": "STRING"
+  },
+  {
+    "description": "Call sign as assigned by FCC",
+    "mode": "NULLABLE",
+    "name": "CallSign",
+    "type": "STRING"
+  },
+  {
+    "description": "Vessel type as defined in NAIS specifications",
+    "mode": "NULLABLE",
+    "name": "VesselType",
+    "type": "STRING"
+  },
+  {
+    "description": "Navigation status as defined by the COLREGS",
+    "mode": "NULLABLE",
+    "name": "Status",
+    "type": "STRING"
+  },
+  {
+    "description": "Length of vessel (see NAIS specifications)",
+    "mode": "NULLABLE",
+    "name": "Length",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Width of vessel (see NAIS specifications)",
+    "mode": "NULLABLE",
+    "name": "Width",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Draft depth of vessel (see NAIS specifications)",
+    "mode": "NULLABLE",
+    "name": "Draft",
+    "type": "FLOAT"
+  },
+  {
+    "description": "Cargo type (see NAIS specification and codes)",
+    "mode": "NULLABLE",
+    "name": "Cargo",
+    "type": "STRING"
+  },
+  {
+    "description": "Class of AIS transceiver",
+    "mode": "REQUIRED",
+    "name": "TransceiverClass",
+    "type": "STRING"
+  }
+]
