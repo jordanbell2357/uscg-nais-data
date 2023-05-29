@@ -10,7 +10,7 @@ bq load \
 --source_format=CSV \
 --skip_leading_rows=1 \
 --max_bad_records=200 \
---schema=MarineCadastre_schema.json \
+--schema=MarineCadastre_CSV_schema.json \
 uscg.nais \
 gs://jordanbell2357marinecadastre/AIS_${y}_${m}_${d}; \
 gsutil rm gs://jordanbell2357marinecadastre/AIS_${y}_${m}_${d}.csv; \
