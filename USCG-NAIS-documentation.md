@@ -1,11 +1,4 @@
----
-layout: post
-title: USCG Nationwide Automatic Identification System (NAIS) documentation
-topic: uscg-nais
-toc: true
----
-
-{% include toc.html %}
+{% include toc %}
 
 # U.S. Coast Guard Acquisition Directorate
 
