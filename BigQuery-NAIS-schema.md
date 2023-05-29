@@ -1,12 +1,3 @@
----
-layout: post
-title: BigQuery schema for USCG NAIS National AIS at 1 Minute Intervals CSV files
-topic: uscg-nais
-toc: true
----
-
-{% include toc.html %}
-
 Office for Coastal Management, 2023: Nationwide Automatic Identification System 2022, <https://www.fisheries.noaa.gov/inport/item/67336>. GUID: gov.noaa.nmfs.inport:67336. Updated: February 6, 2023.
 
 # curl
