@@ -1,9 +1,3 @@
----
-layout: post
-title: USCG NAVCEN How AIS Works
-topic: readings
----
-
 [United States Coast Guard Navigation Center (USCG NAVCEN)](https://navcen.uscg.gov/)
 
 [How AIS Works \| NAVCEN](https://navcen.uscg.gov/how-ais-works)
