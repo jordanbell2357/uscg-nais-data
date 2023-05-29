@@ -13,3 +13,7 @@ The following explorations on Databricks are my first attempts at analysis on th
 <https://jordanbell.info/blog/2023/05/21/Databricks-AIS-06-h3.html>
 
 ![image](https://github.com/jordanbell2357/uscg-nais-data/assets/47544607/e07c2953-b3e6-47a1-b81d-03dbea158c6a)
+
+<https://jordanbell.info/blog/2023/05/21/MarineCadastre-keplergl-Databricks.html>
+
+![image](https://github.com/jordanbell2357/uscg-nais-data/assets/47544607/612531da-2147-4965-891b-0a1e1b6d7f92)
