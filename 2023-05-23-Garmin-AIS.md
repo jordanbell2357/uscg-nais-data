@@ -1,9 +1,3 @@
----
-layout: post
-title: Garmin on AIS
-topic: readings
----
-
 [AIS Definition \| Garmin Support Center](https://support.garmin.com/en-CA/?faq=6FxfgOckXI9Qyit0d90BGA)
 
 > The Universal Shipborne Automatic Identification System (AIS) is a system of transponders installed on vessels that transmit over two dedicated digital marine VHF channels. The data is sent from each ship every few seconds and contains position and movement information such as course, speed, latitude, longitude, and rate of turn. Static information about the vessel is sent every few minutes and includes the name, type of ship, length, beam, draft, and other vessel details. Nearly all commercial vessels are mandated to carry AIS transponders, and each year more yachts, launches, and workboats fit AIS equipment.
