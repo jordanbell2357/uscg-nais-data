@@ -1,5 +1,3 @@
-{% include toc %}
-
 # U.S. Coast Guard Acquisition Directorate
 
 [Nationwide Automatic Identification System \| U.S. Coast Guard Acquisition Directorate](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Acquisitions-CG-9/Programs/C4ISR-Programs/nais/)
