@@ -38,5 +38,4 @@ For instance, MMSI 367458840 is on the first and not the second, and in the firs
 ```csv
 "SearchID","ID Discrepancies","Static Discrepancies","Name","Call Sign","MMSI","IMO","Standard Length","ANT Distance A","ANT Distance B","ANT Distance C","ANT Distance D","Draft","Ship Type CD","Last Reported Date","Ship Description","Positioning System","Vessel Flag","Errors?","Official Name","Official Call Sign","Official MMSI","Official IMO","US Official No","Vessel Owner"
 "9591","CLSN","MEASURE LENGTH IN M NOT FT/ZERO DRAFT","OSPREY","WDL6367","367458840","0","15.24","50","0","0","12","0.0","60","23-May-2023 11:56:41","Passenger Ship","Class A","US","1","OSPREY","WCZ9995","367458840","0","1091215","STASINOS MARINE"
-"9591","CLSN","MEASURE LENGTH IN M NOT FT/ZERO DRAFT","OSPREY","WDL6367","367458840","0","15.24","50","0","0","12","0.0","60","23-May-2023 11:56:41","Passenger Ship","Class A","US","1","OSPREY","WCZ9995","367458840","0","1091215","STASINOS MARINE"
 ```
