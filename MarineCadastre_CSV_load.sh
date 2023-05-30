@@ -5,7 +5,7 @@ curl -O https://coast.noaa.gov/htdata/CMSP/AISDataHandler/${y}/AIS_${y}_${m}_${d
 unzip AIS_${y}_${m}_${d}.zip; \
 rm AIS_${y}_${m}_${d}.zip; \
 gsutil cp AIS_${y}_${m}_${d}.csv gs://jordanbell2357marinecadastre/; \
-rm AIS_${y}_${m}_${d}; \
+rm AIS_${y}_${m}_${d}.csv; \
 bq load \
 --source_format=CSV \
 --skip_leading_rows=1 \
