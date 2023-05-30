@@ -12,6 +12,6 @@ bq load \
 --max_bad_records=200 \
 --schema=MarineCadastre_CSV_schema.json \
 uscg.nais \
-gs://jordanbell2357marinecadastre/AIS_${y}_${m}_${d}; \
+gs://jordanbell2357marinecadastre/AIS_${y}_${m}_${d}.csv; \
 gsutil rm gs://jordanbell2357marinecadastre/AIS_${y}_${m}_${d}.csv; \
 done
