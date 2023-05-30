@@ -1,1 +1,0 @@
-SELECT DISTINCT MMSI FROM `ais-data-385301.uscg.nais` WHERE LENGTH(MMSI) <> 9;
