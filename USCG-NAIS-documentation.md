@@ -1,4 +1,4 @@
-{% :toc %}
+{% include toc %}
 
 # U.S. Coast Guard Acquisition Directorate
 
