@@ -4,6 +4,18 @@
 
 <https://jordanbell.info/topics/uscg-nais/>
 
+### May 30, 2023
+
+`ais-data-385301.uscg.nais`
+
+2022-06-01 to 2022-09-20: 892708003 messages 892 million 708 thousand 3 messages.
+
+```sql
+SELECT COUNT(DISTINCT MMSI) FROM `ais-data-385301.uscg.nais`;
+```
+
+Result: 62365
+
 ## Databricks
 
 The following explorations on Databricks are my first attempts at analysis on this data for June 2022 (30 daily CSV files):
