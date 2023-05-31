@@ -1,9 +1,3 @@
----
-layout: post
-title: NGA MSI Mobile Offshore Drilling Units (MODU)
-topic: uscg-nais
----
-
 [National Geospatial-Intelligence Agency (NGA) Maritime Safety Information](https://msi.nga.mil/)
 
 [Mobile Offshore Drilling Units](https://msi.nga.mil/MODU)
