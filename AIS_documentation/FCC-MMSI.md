@@ -1,9 +1,3 @@
----
-layout: post
-title: FCC Maritime Mobile Service Identities - MMSI
-topic: uscg-nais
----
-
 [Maritime Mobile Service Identities - MMSI \| FCC](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/maritime-mobile/ship-radio-stations/maritime-mobile)
 
 > MMSI Numbers are:
