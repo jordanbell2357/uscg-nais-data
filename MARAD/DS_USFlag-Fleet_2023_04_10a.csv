@@ -1,0 +1,179 @@
+IMO NUMBER,Vessel Name,Ship Type,Gross Tons,Deadweight Tons,Year of Build,Operator,MSP,VISA,VTA,Jones Act Eligible,Militarily Useful
+9244661,ALASKAN EXPLORER,Tanker,"110,693","193,049",2005,Alaska Tanker Co LLC,N,N,N,Y,N
+9244659,ALASKAN FRONTIER,Tanker,"110,693","193,049",2004,Alaska Tanker Co LLC,N,N,N,Y,N
+9271432,ALASKAN LEGEND,Tanker,"110,693","193,048",2006,Alaska Tanker Co LLC,N,N,N,Y,N
+9244673,ALASKAN NAVIGATOR,Tanker,"110,693","193,048",2005,Alaska Tanker Co LLC,N,N,N,Y,N
+9303546,ALLIANCE FAIRFAX,Ro-Ro,"59,705","19,670",2005,Hoegh Autoliners Management AS,Y,Y,N,N,Y
+9332547,ALLIANCE NORFOLK,Ro-Ro,"57,280","21,179",2007,Farrell Lines Incorporated,Y,Y,N,N,Y
+9285500,ALLIANCE ST. LOUIS,Ro-Ro,"57,280","21,081",2005,Farrell Lines Incorporated,Y,Y,N,N,Y
+9759886,AMERICAN ENDURANCE,Tanker,"29,801","49,828",2016,American Petroleum Tankers LLC,N,N,N,Y,Y
+9759898,AMERICAN FREEDOM,Tanker,"29,801","49,828",2017,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9763851,AMERICAN LIBERTY,Tanker,"29,801","49,828",2017,American Petroleum Tankers LLC,N,N,N,Y,Y
+9564578,AMERICAN PHOENIX,Tanker,"30,718","49,035",2012,Seabulk Tankers Inc,N,N,N,Y,Y
+9763863,AMERICAN PRIDE,Tanker,"29,801","49,828",2017,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9239874,APL GULF EXPRESS,Containership,"16,916","20,944",2002,"APL Marine Services, Ltd.",Y,Y,N,N,Y
+9505039,ARC COMMITMENT,Vehicles Carrier,"74,255","31,143",2011,ARC Commitment Trust,Y,Y,N,N,Y
+9375264,ARC DEFENDER,Vehicles Carrier,"61,328","22,144",2008,American Roll-on Roll-off,Y,Y,N,N,Y
+9332925,ARC INDEPENDENCE,Vehicles Carrier,"71,583","30,200",2007,American Roll-on Roll-off,Y,Y,N,N,Y
+9332949,ARC INTEGRITY,Vehicles Carrier,"71,583","30,386",2008,American Roll-on Roll-off,Y,Y,N,N,Y
+9316141,ARC RESOLVE,Vehicles Carrier,"60,942","22,564",2006,American Roll-on Roll-off,Y,Y,N,N,Y
+9698018,BAY STATE,Tanker,"29,923","49,130",2016,American Petroleum Tankers LLC,N,N,N,Y,Y
+9144926,BRENTON REEF,Tanker,"30,770","45,656",1999,Seabulk Tankers Inc,N,N,N,Y,Y
+9642095,CALIFORNIA,Tanker,"62,318","114,756",2015,Crowley Alaska Tankers LLC,N,N,N,Y,N
+9710206,CALIFORNIA VOYAGER,Tanker,"29,923","49,160",2016,Chevron Shipping Co LLC,N,N,N,Y,Y
+9123037,CAPT DAVID I LYON,Containership,"16,856","22,878",1996,Sealift Inc,N,Y,N,N,Y
+9436070,CMA CGM DAKAR,Containership,"18,485","23,695",2010,"APL Marine Services, Ltd.",Y,Y,N,N,Y
+9360142,CMA CGM HERODOTE,Containership,"17,594","21,257",2007,"APL Marine Services, Ltd.",Y,Y,N,N,Y
+9010498,COASTAL NAVIGATOR,General Cargo,"1,904","1,500",1991,Coastal Transportation Inc,N,N,N,Y,N
+8213249,COASTAL NOMAD,General Cargo,"1,920","1,200",1983,Coastal Transportation Inc,N,N,N,Y,N
+8855463,COASTAL PROGRESS,General Cargo,"1,920","2,133",1988,Coastal Transportation Inc,N,N,N,Y,N
+9782493,COASTAL STANDARD,General Cargo,"2,451","2,565",2016,Coastal Transportation Inc,N,N,N,Y,Y
+5408491,COASTAL TRADER,General Cargo,"1,823","1,825",1963,Coastal Transportation Inc,N,N,N,Y,N
+9349502,COLORADO EXPRESS,Containership,"75,579","85,614",2008,"Hapag-Lloyd USA, LLC",Y,Y,N,N,Y
+9719056,DANIEL K. INOUYE,Containership,"48,409","51,400",2018,Matson Navigation Co Inc,N,Y,N,Y,Y
+9349514,DELAWARE EXPRESS,Containership,"75,579","85,517",1981,"Hapag-Lloyd USA, LLC",Y,Y,N,N,Y
+9010486,EASTERN WIND,General Cargo,"1,495","1,500",1990,Trident Seafoods Corp,N,N,N,Y,N
+9721968,EL COQUI,Containership,"37,462","26,410",2018,Crowley Liner Services Inc,N,Y,N,Y,Y
+9408126,EMPIRE STATE,Tanker,"29,527","48,635",2010,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9121273,ENDURANCE,Ro-Ro,"72,708","48,988",1996,Fidelio Limited Partnership,Y,Y,N,N,Y
+9408138,EVERGREEN STATE,Tanker,"29,606","48,641",2010,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9568469,FLORIDA,Tanker,"29,242","46,696",2013,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9698006,GARDEN STATE,Tanker,"29,923","49,172",2016,American Petroleum Tankers LLC,N,N,N,Y,Y
+9837092,GEORGE III,Containership,"45,645","43,527",2022,Pasha Hawaii Holdings LLC,N,Y,N,Y,Y
+7710733,GEYSIR,General Cargo,"2,266","2,000",1980,Marco Marine LLC,N,N,N,Y,Y
+9407562,GOLDEN STATE,Tanker,"29,527","48,632",2009,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9339818,GREEN BAY,Ro-Ro,"59,250","18,312",2007,American Petroleum Tankers LLC,Y,Y,N,N,Y
+9181560,GREEN COVE,Ro-Ro,"57,566","22,747",1999,American Petroleum Tankers LLC,Y,Y,N,N,Y
+9158288,GREEN LAKE,Ro-Ro,"57,623","22,799",1998,American Petroleum Tankers LLC,Y,Y,N,N,Y
+9177428,GREEN RIDGE,Ro-Ro,"57,449","21,523",1998,American Petroleum Tankers LLC,Y,Y,N,N,Y
+9561148,HAINA PATRIOT,Tanker,"4,047","6,765",2011,Haina Patriot LLC,N,N,N,N,N
+7617905,HORIZON ENTERPRISE,Containership,"28,219","31,423",1980,Pasha Hawaii Holdings LLC,N,Y,N,Y,Y
+7617890,HORIZON PACIFIC,Containership,"28,219","31,213",1979,Pasha Hawaii Holdings LLC,N,Y,N,Y,Y
+7729459,HORIZON SPIRIT,Containership,"34,077","46,154",1980,Pasha Hawaii Holdings LLC,N,Y,N,Y,Y
+9040534,HOS STRONGLINE,Tanker,"5,984","4,938",1992,Hornbeck Offshore Trans LLC,N,N,N,Y,N
+9349564,HUDSON EXPRESS,Containership,"75,579","85,326",2008,"Hapag-Lloyd USA, LLC",Y,Y,N,N,Y
+9710191,INDEPENDENCE,Tanker,"29,923","49,181",2016,Seabulk Tankers Inc,N,N,N,Y,Y
+9680841,ISLA BELLA,Containership,"36,751","33,106",2015,TOTE Puerto Rico,N,Y,N,Y,Y
+9233167,JEAN ANNE,Ro-Ro,"37,548","12,561",2005,Pasha Hawaii Holdings LLC,N,Y,N,Y,Y
+9719068,KAIMANA HILA,Containership,"48,409","51,400",2019,Matson Navigation Co Inc,N,Y,N,Y,Y
+9232979,KAMOKUIKI,Containership,"6,368","8,627",2000,Matson Navigation Co Inc,N,Y,N,N,Y
+9310109,LIBERTY,Ro-Ro,"61,321","19,628",2006,Fidelio Limited Partnership,Y,Y,N,N,Y
+9278753,LIBERTY EAGLE,Dry Bulk,"28,762","51,812",2004,Liberty Maritime Corp,N,Y,N,N,N
+9228136,LIBERTY GLORY,Dry Bulk,"28,836","50,601",2001,Liberty Maritime Corp,N,Y,N,N,N
+9228148,LIBERTY GRACE,Dry Bulk,"28,836","50,601",2001,Liberty Maritime Corp,N,Y,N,N,N
+9777888,LIBERTY PASSION,Ro-Ro,"58,107","20,352",2017,Liberty Maritime Corp,Y,Y,N,N,Y
+9777890,LIBERTY PEACE,Ro-Ro,"58,107","20,397",2017,Liberty Maritime Corp,N,Y,N,N,Y
+9448114,LIBERTY PRIDE,Ro-Ro,"57,030","21,233",2009,Liberty Maritime Corp,Y,Y,N,N,Y
+9448425,LIBERTY PROMISE,Ro-Ro,"57,030","21,359",2010,Liberty Maritime Corp,Y,Y,N,N,Y
+9697985,LONE STAR STATE,Tanker,"29,923","49,151",2015,American Petroleum Tankers LLC,N,N,N,Y,Y
+9704790,LOUISIANA,Tanker,"29,801","49,828",2016,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9215660,LTC JOHN U.D. PAGE,Containership,"40,085","51,101",2001,Sealift Inc,N,Y,N,N,Y
+9814600,LURLINE,Containership,"59,522","44,200",2019,Matson Navigation Co Inc,N,Y,N,Y,Y
+9348649,MAERSK ATLANTA,Containership,"74,642","84,705",2006,Maersk A/S,Y,Y,N,N,Y
+9356074,MAERSK CHESAPEAKE,Containership,"25,904","35,119",2008,Safmarine Container Lines,Y,Y,N,N,Y
+9332975,MAERSK CHICAGO,Containership,"74,642","84,775",2007,Maersk A/S,Y,Y,N,N,Y
+9332987,MAERSK COLUMBUS,Containership,"74,642","84,704",2007,Maersk A/S,Y,Y,N,N,Y
+9332999,MAERSK DENVER,Containership,"74,642","84,771",2007,Maersk A/S,Y,Y,N,N,Y
+9333034,MAERSK DETROIT,Containership,"74,642","84,626",2008,Maersk A/S,Y,Y,N,N,Y
+9299044,MAERSK DURBAN,Containership,"25,406","33,750",2005,Maersk A/S,Y,Y,N,N,Y
+9333008,MAERSK HARTFORD,Containership,"74,642","84,783",2007,Maersk A/S,Y,Y,N,N,Y
+9298686,MAERSK IOWA,Containership,"50,686","61,454",2006,Farrell Lines Incorporated,Y,Y,N,N,Y
+9311701,MAERSK KANSAS,Containership,"50,686","61,447",2007,Maersk A/S,Y,Y,N,N,Y
+9333010,MAERSK KENSINGTON,Containership,"74,642","84,688",2007,Maersk A/S,Y,Y,N,N,Y
+9333022,MAERSK KINLOSS,Containership,"74,642","84,835",2008,Maersk A/S,Y,Y,N,N,Y
+9255244,MAERSK MICHIGAN,Tanker,"28,517","47,047",2003,Maersk Line Ltd-USA,N,N,Y,N,Y
+9305312,MAERSK MONTANA,Containership,"50,686","61,499",2006,Farrell Lines Incorporated,Y,Y,N,N,Y
+9298698,MAERSK OHIO,Containership,"50,686","61,454",2006,Farrell Lines Incorporated,Y,Y,N,N,Y
+9278492,MAERSK PEARY,Tanker,"25,487","38,177",2004,Maersk Line Ltd-USA,N,N,Y,N,Y
+9342176,MAERSK PITTSBURGH,Containership,"74,642","84,688",2008,Maersk A/S,Y,Y,N,N,Y
+9289207,MAERSK SARATOGA,Containership,"24,488","28,844",2004,Safmarine Container Lines,Y,Y,N,N,Y
+9315197,MAERSK SELETAR,Containership,"80,503","87,545",2007,Maersk A/S,Y,Y,N,N,Y
+9315202,MAERSK SENTOSA,Containership,"80,503","87,618",2007,Maersk A/S,Y,Y,N,N,Y
+9314210,MAERSK TENNESSEE,Containership,"50,686","61,433",2007,Maersk A/S,Y,Y,N,N,Y
+9289192,MAERSK YORKTOWN,Containership,"24,488","28,897",2004,Maersk A/S,Y,Y,N,N,Y
+9697997,MAGNOLIA STATE,Tanker,"29,923","49,076",2016,American Petroleum Tankers LLC,N,N,N,Y,Y
+7907996,MAHIMAHI,Containership,"41,036","30,825",1983,Matson Navigation Co Inc,N,Y,N,Y,Y
+8320559,MAJOR BERNARD F. FISHER,Ro-Ro,"34,318","24,500",1985,Sealift Inc,N,Y,N,N,Y
+9210309,MAJOR RICHARD WINTERS,General Cargo,"6,170","7,725",2000,Sealift Inc,N,Y,N,N,Y
+7907984,MANOA,Containership,"41,036","30,825",1982,Matson Navigation Co Inc,N,Y,N,Y,Y
+9244130,MANUKAI,Containership,"32,575","38,261",2003,Matson Navigation Co Inc,N,Y,N,Y,Y
+9273674,MANULANI,Containership,"32,575","38,261",2005,Matson Navigation Co Inc,N,Y,N,Y,Y
+9619684,MARJORIE C,Ro-Ro,"47,279","24,750",2015,Pasha Hawaii Holdings LLC,N,Y,N,Y,Y
+8419142,MATSON ANCHORAGE,Containership,"20,965","21,282",1987,Matson Navigation Co Inc,N,Y,N,Y,Y
+8419166,MATSON KODIAK,Containership,"20,965","20,668",1987,Matson Navigation Co Inc,N,Y,N,Y,Y
+8419154,MATSON TACOMA,Containership,"20,965","20,668",1987,Matson Navigation Co Inc,N,Y,N,Y,Y
+9814612,MATSONIA,Containership,"59,522","44,200",2020,Matson Navigation Co Inc,N,Y,N,Y,Y
+9273686,MAUNALEI,Containership,"25,324","34,026",2006,Matson Navigation Co Inc,N,Y,N,Y,Y
+9268538,MAUNAWILI,Containership,"32,575","38,261",2004,Matson Navigation Co Inc,N,Y,N,Y,Y
+9232278,MIDNIGHT SUN,Ro-Ro,"65,314","22,437",2003,TOTE Maritime Alaska Inc,N,Y,N,Y,Y
+9131369,MISSISSIPPI VOYAGER,Tanker,"30,415","46,069",1998,Chevron Shipping Co LLC,N,N,N,Y,Y
+9349552,MISSOURI EXPRESS,Containership,"75,579","85,384",2008,"Hapag-Lloyd USA, LLC",Y,Y,N,N,Y
+7908005,MOKIHANA,Ro-Ro,"57,379","30,652",1983,Matson Navigation Co Inc,N,Y,N,Y,Y
+8302246,NATIONAL GLORY,Containership,"11,652","12,418",1988,National Shipping of America,N,Y,N,Y,Y
+9232280,NORTH STAR,Ro-Ro,"65,314","22,437",2003,TOTE Maritime Alaska Inc,N,Y,N,Y,Y
+9506722,OCEAN FREEDOM,General Cargo,"12,810","14,359",2010,Fidelio Limited Partnership,Y,Y,N,N,Y
+9437335,OCEAN GIANT,General Cargo,"15,549","17,590",2012,US Ocean LLC,Y,Y,N,N,Y
+9418987,OCEAN GLADIATOR,General Cargo,"15,549","17,704",2010,Ocean Gladiator Shipping Trust,Y,Y,N,N,Y
+9681833,OCEAN GLORY,General Cargo,"18,410","19,410",2015,Patriot Shipping LLC,Y,Y,N,N,Y
+9681821,OCEAN GRAND,General Cargo,"18,410","19,436",2015,Patriot Shipping LLC,Y,Y,N,N,Y
+9509970,OCEAN JAZZ,General Cargo,"17,538","10,662",2010,Intermarine LLC,N,Y,N,N,Y
+9457218,OCEAN TRADER,Ro-Ro,"29,429","11,325",2011,Military Sealift Command,N,N,N,N,Y
+9704776,OHIO,Tanker,"29,801","49,828",2015,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9118628,OREGON,Tanker,"30,415","46,103",1997,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9353591,OVERSEAS ANACORTES,Tanker,"29,242","46,666",2010,Overseas Shipholding Group,N,N,N,Y,Y
+9353565,OVERSEAS BOSTON,Tanker,"29,242","46,802",2009,OSG Ship Management Inc,N,N,N,Y,Y
+9475935,OVERSEAS CASCADE,Tanker,"29,234","46,287",2009,OSG Ship Management Inc,N,N,N,Y,Y
+9432218,OVERSEAS CHINOOK,Tanker,"29,234","46,666",2010,Overseas Shipholding Group,N,N,N,Y,Y
+9351062,OVERSEAS HOUSTON,Tanker,"29,242","46,814",2007,Overseas Shipholding Group,N,N,N,Y,Y
+9144914,OVERSEAS KEY WEST,Tanker,"30,770","45,671",1999,OSG Ship Management Inc,N,N,N,Y,Y
+9353527,OVERSEAS LONG BEACH,Tanker,"29,242","46,911",2007,OSG Ship Management Inc,N,N,N,Y,Y
+9353589,OVERSEAS MARTINEZ,Tanker,"29,242","46,653",2010,OSG Ship Management Inc,N,N,N,Y,Y
+9435894,OVERSEAS MYKONOS,Tanker,"29,433","51,711",2010,Mykonos Tanker LLC,Y,N,Y,N,Y
+9353577,OVERSEAS NIKISKI,Tanker,"29,242","46,666",2009,OSG Ship Management Inc,N,N,N,Y,Y
+9435909,OVERSEAS SANTORINI,Tanker,"29,433","51,711",2010,Santorini Tanker LLC,Y,N,Y,N,Y
+9862944,OVERSEAS SUN COAST,Tanker,"29,708","50,332",2019,OSG Ship Management Inc,N,N,N,N,Y
+9353606,OVERSEAS TAMPA,Tanker,"29,242","46,666",2011,OSG Ship Management Inc,N,N,N,Y,Y
+9316139,PATRIOT,Ro-Ro,"60,979","22,564",2006,Fidelio Limited Partnership,Y,Y,N,N,Y
+9408102,PELICAN STATE,Tanker,"29,527","48,598",2009,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9486958,PENNSYLVANIA,Tanker,"29,242","45,760",2012,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9680853,PERLA DEL CARIBE,Containership,"36,912","33,127",2016,TOTE Maritime Alaska Inc,N,Y,N,Y,Y
+9809564,POHANG PIONEER,Tanker,"5,422","6,510",2018,Crowley Petroleum Services Inc,N,N,N,N,Y
+9244063,POLAR ADVENTURE,Tanker,"85,387","141,740",2004,Polar Tankers Inc,N,N,N,Y,N
+9206114,POLAR DISCOVERY,Tanker,"85,387","141,740",2003,Polar Tankers Inc,N,N,N,Y,N
+9193551,POLAR ENDEAVOUR,Tanker,"85,387","141,740",2001,Polar Tankers Inc,N,N,N,Y,N
+9250660,POLAR ENTERPRISE,Tanker,"85,387","141,740",2006,Polar Tankers Inc,N,N,N,Y,N
+9193563,POLAR RESOLUTION,Tanker,"85,387","141,740",2002,Polar Tankers Inc,N,N,N,Y,N
+9349526,POTOMAC EXPRESS,Containership,"75,579","85,384",2008,Wilmington Trust Co,Y,Y,N,N,Y
+9526502,PRESIDENT CLEVELAND,Containership,"75,015","84,155",2012,"APL Marine Services, Ltd.",Y,Y,N,N,Y
+9295220,PRESIDENT EISENHOWER,Containership,"82,794","93,558",2005,"APL Marine Services, Ltd.",Y,Y,N,N,Y
+9400069,PRESIDENT FD ROOSEVELT,Containership,"75,752","81,002",2010,"APL Marine Services, Ltd.",Y,Y,N,N,Y
+9295218,PRESIDENT KENNEDY,Containership,"82,794","93,594",2005,"APL Marine Services, Ltd.",Y,Y,N,N,Y
+9538658,PRESIDENT TRUMAN,Containership,"75,015","84,153",2014,"APL Marine Services, Ltd.",Y,Y,N,N,Y
+9218686,PRESIDENT WILSON,Containership,"65,792","67,987",2002,"APL Marine Services, Ltd.",Y,Y,N,N,Y
+9002037,R. J. PFEIFFER,Containership,"32,664","28,555",1992,Matson Navigation Co Inc,N,Y,N,Y,Y
+9198501,ROCKETSHIP,Ro-Ro,"8,679","3,950",2000,Foss Maritime Co,N,Y,N,Y,Y
+9322009,SAGAMORE,Containership,"16,803","22,749",2008,Sealift Inc,N,Y,N,N,Y
+7517698,SEA TRADER,General Cargo,"3,485","1,496",1976,Trident Seafoods Corp,N,N,N,Y,N
+9131371,SEABULK ARCTIC,Tanker,"30,415","46,103",1998,Seabulk Tankers Inc,N,N,N,Y,Y
+7816551,SEABULK CHALLENGE,Tanker,"29,823","49,636",1981,Seabulk Tankers Inc,N,N,N,Y,Y
+9118630,SEABULK PRIDE,Tanker,30415,46069,1998,Seabulk Tankers Inc,N,N,N,Y,Y
+9353553,SEAKAY SKY,Tanker,"29,242","46,817",2008,Keystone Shipping Co,N,N,N,Y,Y
+9353539,SEAKAY STAR,Tanker,"29,242","46,817",2007,Keystone Shipping Co,N,N,N,Y,Y
+9353541,SEAKAY VALOR,Tanker,"29,242","46,810",2008,Keystone Shipping Co,N,N,N,Y,Y
+9222352,SLNC CORSICA,General Cargo,"5,548","6,404",2001,Schuyler Line Navigation Co,N,Y,N,N,Y
+9448334,SLNC GOODWILL,Tanker,"30,241","50,326",2009,Schuyler Line Navigation Co,N,N,N,N,Y
+9418975,SLNC MAGOTHY,General Cargo,"15,549","17,478",2010,Schuyler Line Navigation Co,N,Y,N,N,Y
+9383663,SLNC PAX,Tanker,"5,720","7,985",2008,Military Sealift Command,N,N,N,N,Y
+9629988,SLNC SEVERN,Dry Bulk,"33,729",57888,2017,Schuyler Line Navigation Co,N,N,N,N,N
+9538907,SLNC YORK,General Cargo,"12,679","9,503",2010,"Argent Marine Operations, Inc.",Y,Y,N,N,Y
+9215696,SSG EDWARD A. CARTER JR,Containership,"40,085","51,087",2001,Sealift Inc,N,Y,N,N,Y
+9390032,STENA POLARIS,Tanker,"36,210","64,917",2010,Stena Bulk AB,N,N,N,N,Y
+9077044,SULPHUR ENTERPRISE,Tanker,"16,771","21,649",1994,Savage Marine Management Co,N,N,N,Y,N
+9408114,SUNSHINE STATE,Tanker,"29,527","48,633",2009,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9721970,TAINO,Containership,"37,462","26,306",2018,Crowley Liner Services Inc,N,Y,N,Y,Y
+9704788,TEXAS,Tanker,"29,801","49,827",2015,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9719886,TEXAS VOYAGER,Tanker,"29,923","49,382",2017,Chevron Shipping Co LLC,N,N,N,Y,Y
+9747584,UTAH VOYAGER,Tanker,"29,923","49,045",2017,Chevron USA Inc,N,N,N,Y,Y
+9642083,WASHINGTON,Tanker,"62,318","114,814",2014,Crowley Alaska Tankers LLC,N,N,N,Y,N
+9704805,WEST VIRGINIA,Tanker,"29,801","49,828",2016,Crowley Petroleum Services Inc,N,N,N,Y,Y
+9573658,YOSEMITE TRADER,Tanker,"28,777","47,980",2011,Maersk Tanker MR K/S,N,N,N,N,Y
