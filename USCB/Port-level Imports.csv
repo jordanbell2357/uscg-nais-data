@@ -1,8 +1,4 @@
-"Port-level Imports"
-"Current date: 08/01/2023 11:34 PM (Eastern Daylight Time)"
-"Commodity: Total All Commodities"
-"Country: World Total"
-"Port","Time","Containerized Vessel SWT (Gen) (kg)","Vessel SWT (Gen) (kg)",
+"Port","Time","Containerized Vessel SWT (Gen) (kg)","Vessel SWT (Gen) (kg)"
 "Anchorage, AK (District)","January 2022","246,762","190,021,064"
 "Anchorage, AK (District)","February 2022","144,576","142,785,370"
 "Anchorage, AK (District)","March 2022","627,978","150,211,705"
