@@ -29,3 +29,9 @@ out geom;
 >;
 out skel qt;
 ```
+
+```bash
+ogr2ogr -where "OGR_GEOMETRY='Point'" us_ports_points.shp us_region_industrial_port.geojson
+ogr2ogr -where "OGR_GEOMETRY='LineString'" us_ports_linestrings.shp us_region_industrial_port.geojson
+ogr2ogr -where "OGR_GEOMETRY='Polygon'" us_ports_polygons.shp us_region_industrial_port.geojson
+```
