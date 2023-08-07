@@ -1,8 +1,4 @@
----
-layout: post
-title: "ITU Table of Maritime Identification Digits (MID)"
-topic: uscg-nais
----
+# ITU Table of Maritime Identification Digits (MID)
 
 [ITU GLobal Administration Data System (GLAD)](https://www.itu.int/en/ITU-R/terrestrial/fmd/Pages/glad.aspx)
 
@@ -26,23 +22,3 @@ Digit,Allocated to
 208,Vatican City State
 209,Cyprus (Republic of)
 ```
-
-<div style="overflow-x:auto;">
-  <table>
-      {% for row in site.data.MaritimeIdentificationDigits %}
-          {% if forloop.first %}
-              <tr>
-                  {% for pair in row %}
-                      <th>
-                          {{ pair[0] }}
-                      </th>
-                  {% endfor %}
-              </tr>
-          {% endif %}
-
-          {% tablerow pair in row %}
-              {{ pair[1] }}
-          {% endtablerow %}
-      {% endfor %}
-  </table>
-</div>
