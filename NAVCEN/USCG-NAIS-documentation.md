@@ -54,7 +54,7 @@
 
 NAIS/VIVS Coverage:
 
-![NAIS/VIVS Coverage](/images/USCG/VIVS_Coverage.png)
+![NAIS/VIVS Coverage](https://jordanbell.info/images/USCG/VIVS_Coverage.png)
 
 ## Class A AIS Reports
 
