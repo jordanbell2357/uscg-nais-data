@@ -54,12 +54,7 @@
 
 NAIS/VIVS Coverage:
 
-<figure>
-  ![NAIS/VIVS Coverage](/images/USCG/VIVS_Coverage.png)
-  <figcaption>Caption for the image</figcaption>
-</figure>
-
-
+![NAIS/VIVS Coverage](/images/USCG/VIVS_Coverage.png)
 
 ## Class A AIS Reports
 
