@@ -452,74 +452,74 @@ For SAR aircraft, the use of this field may be decided by the responsible admini
 
 
 <table>
-  <caption>Table 53 (continued): Other ships (p. 114)</caption>
+<caption>Table 53 (continued): Other ships (p. 114)</caption>
   <tr>
-    <th>First digit(1)</th>
-    <th>Second digit(1)</th>
-    <th>First digit(1)</th>
-    <th>Second digit(1)</th>
+    <th>First digit</th>
+    <th>Second digit</th>
+    <th>First digit</th>
+    <th>Second digit</th>
   </tr>
   <tr>
     <td>1 – Reserved for future use</td>
     <td>0 – All ships of this type</td>
-    <td>–</td>
+    <td>&mdash;</td>
     <td>0 – Fishing</td>
   </tr>
   <tr>
     <td>2 – WIG</td>
-    <td>1 – Carrying DG, HS, or MP, IMO hazard or pollutant category X(2)</td>
-    <td>–</td>
+    <td>1 – Carrying DG, HS, or MP, IMO hazard or pollutant category X</td>
+    <td>&mdash;</td>
     <td>1 – Towing</td>
   </tr>
   <tr>
     <td>3 – See right column</td>
-    <td>2 – Carrying DG, HS, or MP, IMO hazard or pollutant category Y(2)</td>
+    <td>2 – Carrying DG, HS, or MP, IMO hazard or pollutant category Y</td>
     <td>3 – Vessel</td>
     <td>2 – Towing and length of the tow exceeds 200 m or breadth exceeds 25 m</td>
   </tr>
   <tr>
     <td>4 – HSC</td>
-    <td>3 – Carrying DG, HS, or MP, IMO hazard or pollutant category Z(2)</td>
-    <td>–</td>
+    <td>3 – Carrying DG, HS, or MP, IMO hazard or pollutant category Z</td>
+    <td>&mdash;</td>
     <td>3 – Engaged in dredging or underwater operations</td>
   </tr>
   <tr>
     <td>5 – See above</td>
-    <td>4 – Carrying DG, HS, or MP, IMO hazard or pollutant category OS(2)</td>
-    <td>–</td>
+    <td>4 – Carrying DG, HS, or MP, IMO hazard or pollutant category OS</td>
+    <td>&mdash;</td>
     <td>4 – Engaged in diving operations</td>
   </tr>
   <tr>
     <td>5 – Reserved for future use</td>
-    <td>–</td>
+    <td>&mdash;</td>
     <td>5 – Engaged in military operations</td>
+  </tr>
+  <tr>
     <td>6 – Passenger ships</td>
-  </tr>
-  <tr>
     <td>6 – Reserved for future use</td>
-    <td>–</td>
+    <td>&mdash;</td>
     <td>6 – Sailing</td>
+  </tr>
+  <tr>
     <td>7 – Cargo ships</td>
-  </tr>
-  <tr>
     <td>7 – Reserved for future use</td>
-    <td>–</td>
+    <td>&mdash;</td>
     <td>7 – Pleasure craft</td>
+  </tr>
+  <tr>
     <td>8 – Tanker(s)</td>
+    <td>8 – Reserved for future use</td>
+    <td>&mdash;</td>
+    <td>8 – Reserved for future use</td>
   </tr>
   <tr>
-    <td>8 – Reserved for future use</td>
-    <td>–</td>
-    <td>8 – Reserved for future use</td>
     <td>9 – Other types of ship</td>
-  </tr>
-  <tr>
     <td>9 – No additional information</td>
-    <td>–</td>
+    <td>&mdash;</td>
     <td>9 – Reserved for future use</td>
-    <td></td>
   </tr>
 </table>
+
 
 # Table 70: Standard class B equipment position report
 
