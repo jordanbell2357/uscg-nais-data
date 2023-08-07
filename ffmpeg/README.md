@@ -1,8 +1,4 @@
----
-layout: post
-title: ffmpeg, ImageMagick, and Video.js
-topic: cli
----
+# ffmpeg
 
 <link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet" />
 <script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
