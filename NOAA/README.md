@@ -1,6 +1,6 @@
 # Office for Coastal Management, 2023: Nationwide Automatic Identification System 2022
 
-{:toc}
+{ :toc }
 
 [OCM Metadata Library](https://www.fisheries.noaa.gov/inport/item/37112)
 
