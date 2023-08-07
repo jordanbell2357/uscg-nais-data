@@ -1,7 +1,5 @@
 # Office for Coastal Management, 2023: Nationwide Automatic Identification System 2022
 
-{ :toc }
-
 [OCM Metadata Library](https://www.fisheries.noaa.gov/inport/item/37112)
 
 Office for Coastal Management, 2023: Nationwide Automatic Identification System 2022, <https://www.fisheries.noaa.gov/inport/item/67336>. GUID: gov.noaa.nmfs.inport:67336. Updated: February 6, 2023.
