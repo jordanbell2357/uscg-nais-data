@@ -1,8 +1,5 @@
 # ffmpeg
 
-<link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet" />
-<script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
-
 [ffmpeg Documentation](https://ffmpeg.org/ffmpeg.html)
 
 [Convert Between Image Formats \| ImageMagick](https://imagemagick.org/script/convert.php)
@@ -39,86 +36,3 @@ In this script, the `$(printf "%02d" $i)` part is only used for the progress bar
 This script will create 30 images for the progress bars named `progress_*.png`. It will then overlay these progress bars onto the original images and save the result as `ais_june_choropleth_progress_*.png`. Finally, it will compile these composite images into a video and clean up the temporary images.
 
 These are first, a map of all AIS messages from MarineCadastre.gov, downsampled to 1 day frequency, for the 30 days of June 2022, and second, filtered to cargo vessels (VesselType = 70). Daily density plots made using h3 on Databricks.
-
-  <video
-    id="my-video1"
-    class="video-js"
-    controls
-    preload="auto"
-    width="500"
-    height="250"
-    poster="/images/FFmpeg/ais_june_choropleth_progress_15.png"
-    data-setup="{}"
-  >
-    <source src="/images/FFmpeg/ais_june_choropleth.mp4" type="video/mp4" />
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a
-      web browser that
-      <a href="https://videojs.com/html5-video-support/" target="_blank"
-        >supports HTML5 video</a
-      >
-    </p>
-  </video>
-
-  <script>
-    var player = videojs('my-video1');
-  </script>
-
----
-
-  <video
-    id="my-video2"
-    class="video-js"
-    controls
-    preload="auto"
-    width="500"
-    height="250"
-    poster="/images/FFmpeg/ais_june_cargo_choropleth_progress_15.png"
-    data-setup="{}"
-  >
-    <source src="/images/FFmpeg/ais_june_cargo_choropleth.mp4" type="video/mp4" />
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a
-      web browser that
-      <a href="https://videojs.com/html5-video-support/" target="_blank"
-        >supports HTML5 video</a
-      >
-    </p>
-  </video>
-
-  <script>
-    var player = videojs('my-video2');
-  </script>
-
-[Video.js Options Reference](https://videojs.com/guides/options/)
-
-```html
-<link href="https://vjs.zencdn.net/7.8.4/video-js.css" rel="stylesheet" />
-<script src="https://vjs.zencdn.net/7.8.4/video.js"></script>
-
-<body>
-  <video
-    id="my-video"
-    class="video-js"
-    controls
-    preload="auto"
-    width="640"
-    height="264"
-    poster="/images/FFmpeg/ais_june_choropleth_progress_15.png"
-    data-setup="{}"
-  >
-    <source src="/images/FFmpeg/ais_june_choropleth.mp4" type="video/mp4" />
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a
-      web browser that
-      <a href="https://videojs.com/html5-video-support/" target="_blank"
-        >supports HTML5 video</a
-      >
-    </p>
-  </video>
-
-  <script>
-    var player = videojs('my-video');
-  </script>
-</body>
-```
