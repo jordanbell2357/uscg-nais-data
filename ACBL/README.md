@@ -2,144 +2,1100 @@
 
 https://acltrac.bargeacbl.com/tracboats/boatlist.asp?cat=riverinfo#
 
-```tsv
-ID	BOAT NAME	OFFICIAL NUMBER	LOCATION	LOCATION DATE	EVENT	 
-6N	ANDREW LEBLANC	631883	LM 237.00 (N)	08/20 23:50	SBW - Stand by Weather	 
-B17	ADDI BELLE		TR 259.00 (N)	08/20 07:00	-	 
-21	AM CENTURY	1261315	WC 004.00 (W)	08/21 00:56	SWX - Stop-Waiting to Exchange Tow	 
-23	AM COURAGE	1266771	WT 000.00 (S)	08/21 01:17	RLB - Run Lite Boat	 
-06	AMERICAN POWER	1272101	WC 413.00 (W)	08/21 00:56	RUN - Run at Normal/Full Capacity	 
-22	AM PROGRESS	1251090	WC 279.00 (W)	08/21 00:56	WDK - Waiting on Dock / Facility	 
-26	AMERICAN RELIANCE	1270208	WC 463.00 (W)	08/21 00:56	RLK - Run Over Lock	 
-29	AMERICAN SKILL	1271964	HC 384.00 (W)	08/21 00:56	STB - Stand by for Barges	 
-2Q	AMERICAN SPIRIT	1252998	LM 236.00 (N)	08/21 00:56	PSB - Port Standby	 
-28	AMERICAN STRONG	1272102	WC 218.00 (E)	08/21 00:56	SBP - Stop for Boat Problems	 
-27	AMERICAN VALOR	1273719	TR 299.00 (N)	08/21 00:56	WDK - Waiting on Dock / Facility	 
-3T	AMERICAN DREAM	1256647	WT 048.00 (N)	08/21 01:17	SHS - Stop Hall Street Assist Boat	 
-20	AMER HERO	1258726	WC 562.00 (W)	08/21 00:56	STB - Stand by for Barges	 
-24	AMERICAN LIFE	1268290	EC 008.00 (E)	08/21 00:56	PSB - Port Standby	 
-6Q	AMERICAN WAY	1251070	LM 089.00 (N)	08/21 00:56	STB - Stand by for Barges	 
-7X	AMHERST	575823	OR 764.00 (N)	08/21 01:17	RUN - Run at Normal/Full Capacity	 
-7L	ANDREW F KOCH	642137	UM 184.00 (N)	08/21 01:05	SHS - Stop Hall Street Assist Boat	 
-3C	ANITA EVE SHARP	680357	WC 270.00 (W)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-04	AVE MARIA	1187573	HC 384.00 (W)	08/21 01:13	STB - Stand by for Barges	 
-5D	AVERY BROOKS	1316595	WC 417.00 (W)	08/20 18:58	STB - Stand by for Barges	 
-8F	BRAD BENNINK	576108	OR 204.00 (N)	08/21 01:08	RUN - Run at Normal/Full Capacity	 
-9X	BAILEY B		HC 384.00 (E)	08/21 01:16	WDK - Waiting on Dock / Facility	 
-J96	BIG A		TT 448.35 (S)	08/20 07:00	-	 
-7A	CHIEF BILL BROWN	589325	OR 946.00 (N)	08/21 01:09	RUN - Run at Normal/Full Capacity	 
-67	BOB STITH	642652	LM 539.00 (N)	08/21 01:09	SBT - Stop for Barge Traffic	 
-H4	BROWNWTR 11		WC 534.00 (W)	08/20 07:00	-	 
-C73	BROWNWTR 12		WC 440.00 (E)	08/20 07:00	SLK - Stop for Locking	 
-H8	BROWNWTR 8		WC 548.00 (W)	08/20 07:00	LUS - Laid Up - Surplus	 
-E85	BROWNWTR14		WC 393.00 (E)	08/20 07:00	-	 
-4G	BRYCEMORGAN	1277320	WC 038.00 (W)	08/21 01:18	RUN - Run at Normal/Full Capacity	 
-E18	BTHOMPSON		TR 345.00 (N)	08/20 07:00	-	 
-5A	BUCK LAY	643716	LM 145.00 (S)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-85	CHARLES T. JONES	575826	OR 362.00 (N)	08/21 01:09	RUN - Run at Normal/Full Capacity	 
-77	CAIRO	659639	LM 688.00 (S)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-55	CAPT CARL PAGE	583466	LM 534.00 (N)	08/21 01:13	STA - Awaiting Tug for Tow Work	 
-E6	CORKY		HC 386.00 (W)	08/20 07:00	-	 
-52	CAPT GREGORY SMITH	535940	LM 483.00 (S)	08/21 01:07	RUN - Run at Normal/Full Capacity	 
-5R	CAPT SHELBY HOUSE	979002	LM 257.00 (S)	08/21 01:07	RUN - Run at Normal/Full Capacity	 
-8T	CAPT MICHAEL D COLLINS	980668	LM 470.00 (N)	08/21 01:17	RUN - Run at Normal/Full Capacity	 
-A1	CUMB HUNTER		CR 120.00 (N)	08/20 07:00	-	 
-02	DANNY OCKMAN	644041	LM 131.00 (S)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-E70	D WHITFORD		OR 964.00 ()	08/20 07:00	-	 
-5Q	DAN JAWORSKI	978046	LM 491.00 (N)	08/21 01:13	RUN - Run at Normal/Full Capacity	 
-75	CAPTAIN DAN THOMAS	637070	OR 786.00 (N)	08/21 01:15	RUN - Run at Normal/Full Capacity	 
-L34	DAVID CHOAT		AK 032.70 (S)	08/20 07:00	-	 
-54	DAVID A. LEWIS JR	539034	OR 964.00 (S)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-7W	DEL WILKINS	624582	LM 107.00 (N)	08/20 23:50	STB - Stand by for Barges	 
-1E	DONALD WOOD	1257686	LM 165.00 (N)	08/21 01:03	RUN - Run at Normal/Full Capacity	 
-K92	DOROTHY JAN		AK 336.30 (S)	08/20 07:00	-	 
-4F	DOUGLAS MURPHY	236439	WC 323.00 (W)	08/20 17:13	RUN - Run at Normal/Full Capacity	 
-8E	DWAIN STEPHENS	578740	UM 100.00 (N)	08/21 01:15	RUN - Run at Normal/Full Capacity	 
-J9	EL PASO		AK 173.20 (S)	08/20 07:00	-	 
-5I	EMMANUEL	1215414	WC 589.00 (W)	08/20 15:59	RUN - Run at Normal/Full Capacity	 
-E46	ERIC HAYNEY		TR 021.00 (N)	08/20 07:00	-	 
-86	GARRON L SNEED	560609	LM 831.00 (S)	08/21 01:13	RUN - Run at Normal/Full Capacity	 
-5N	R. P. GETTELFINGER	568139	LM 507.00 (N)	08/21 01:05	RUN - Run at Normal/Full Capacity	 
-7U	GLENN F ZERINGUE	614387	OR 976.00 (S)	08/20 23:50	MBT - Make/Break Tow	 
-3X	GLENN HENDON		OR 863.00 (N)	08/21 01:11	RUN - Run at Normal/Full Capacity	 
-7E	GLENN W JONES	641398	LM 769.00 (N)	08/20 23:50	SRC - Stop River Conditions	 
-B8	HARLEY HALL		TR 215.00 (S)	08/20 07:00	-	 
-4B	HOLY CROSS	121522	WC 168.00 (W)	08/20 21:43	STB - Stand by for Barges	 
-94	HOUSTON HONOR	1311726	HC 385.00 (W)	08/20 23:56	STB - Stand by for Barges	 
-2L	JENIFER TRETTER	1231025	WC 667.00 (E)	08/21 00:56	RUN - Run at Normal/Full Capacity	 
-2U	JERRY TOROK	1265746	TR 304.00 (N)	08/21 00:56	WDK - Waiting on Dock / Facility	 
-50	JACKY L ONEAL	565154	LM 881.00 (S)	08/21 01:01	RUN - Run at Normal/Full Capacity	 
-3L	JEFF KINDL	1266571	HC 370.00 (W)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-76	JEFFBOAT	640345	OR 966.00 (N)	08/21 01:11	SWL - Lock Delays	 
-J0	JOBETH JAN		AK 089.60 (N)	08/20 07:00	-	 
-2J	JOE B. WARD	1231040	WC 558.00 (W)	08/21 00:56	STB - Stand by for Barges	 
-L35	JOHN JANOUS		LM 586.40 (S)	08/20 07:00	-	 
-7K	JOHN D NUGENT	562078	UM 368.00 (N)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-6X	KENNY BILLIOT		LM 263.00 (N)	08/21 01:07	SHS - Stop Hall Street Assist Boat	 
-7J	KENNY EADS	614212	OR 532.00 (S)	08/21 01:08	RUN - Run at Normal/Full Capacity	 
-9P	KRISTIN	1247931	WC 344.00 (W)	08/20 23:03	RUN - Run at Normal/Full Capacity	 
-59	LARRY Y. STRAIN	623460	LM 268.00 (S)	08/21 01:17	SHS - Stop Hall Street Assist Boat	 
-7Y	LAURA M	1315595	WC 310.00 (E)	08/21 01:04	RUN - Run at Normal/Full Capacity	 
-65	LEO G. LUTGRING	594624	IR 098.00 (S)	08/21 01:03	RUN - Run at Normal/Full Capacity	 
-6D	LILY BROOKS	1302688	WC 562.00 (W)	08/21 00:56	STB - Stand by for Barges	 
-2Y	LISA MARIE	1223317	HC 378.00 (W)	08/21 00:47	STB - Stand by for Barges	 
-3A	MARK L DUPLANTIS	1209682	WC 242.00 (E)	08/21 01:15	RUN - Run at Normal/Full Capacity	 
-7V	MIKE SANDERS	1214534	LM 543.00 (N)	08/21 01:16	SRC - Stop River Conditions	 
-87	MIKE WEISEND	1231791	LM 559.00 (S)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-09	MAGNOLIA	1252791	HC 378.00 (W)	08/20 15:59	STB - Stand by for Barges	 
-5X	MARK GLAAB	1291342	HC 384.00 (W)	08/21 00:56	WDK - Waiting on Dock / Facility	 
-64	MARK STAAB	652922	UM 072.00 (S)	08/21 01:04	RUN - Run at Normal/Full Capacity	 
-3G	MARTIN J. PELLEGRIN	625777	WC 396.00 (W)	08/21 00:56	RUN - Run at Normal/Full Capacity	 
-2I	MARY JONES		OR 862.00 (N)	08/21 00:58	RUN - Run at Normal/Full Capacity	 
-5S	MIKE HOWARD	644042	PA 050.00 (S)	08/21 01:07	RUN - Run at Normal/Full Capacity	 
-2H	MIKE MITCHELL	624349	WC 166.00 (E)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-K57	MISS ALEX		AK 188.80 (N)	08/20 07:00	-	 
-62	MISS CARTER W	1334369	WC 289.00 (W)	08/21 01:04	STB - Stand by for Barges	 
-66	MISS JACKIE BROWN	598151	OR 318.00 (N)	08/21 01:17	SFS - Stop for Fuel and Stores	 
-0Z	MISTER MAC		WC 174.00 (E)	08/20 18:43	AOD - Awaiting Orders	 
-E75	N.BUFORD		TR 023.00 (S)	08/20 07:00	-	 
-2X	NICK LONNEMANN	1266535	LM 867.00 (S)	08/21 00:56	SFS - Stop for Fuel and Stores	 
-7D	OHIO		OR 332.00 (N)	08/21 01:05	RUN - Run at Normal/Full Capacity	 
-19	OTTO	1307459	HC 384.00 (E)	08/21 01:13	RUN - Run at Normal/Full Capacity	 
-80	PAUL BROTZGE	559099	UM 061.00 (S)	08/21 01:01	RUN - Run at Normal/Full Capacity	 
-7S	PAUL TOBIN	1221907	OR 658.00 (N)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-5C	CAPTAIN RODNEY E STOKES	1078466	LM 442.00 (N)	08/21 01:14	RUN - Run at Normal/Full Capacity	 
-9Q	R HAGEBOLS	1325577	EC 111.00 (E)	08/20 12:43	PSB - Port Standby	 
-4A	RICKEY HUGHES	551830	LM 237.00 (S)	08/21 01:13	SBT - Stop for Barge Traffic	 
-9O	R.J CHERAMIE	647616	EC 016.00 (E)	08/21 01:04	SCW - Stop Conditions Weather	 
-F15	R.SHELTON		TR 022.00 (S)	08/20 07:00	-	 
-10	RANDY ANDERSON	580067	OR 862.00 (S)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-78	REPENTANCE	1133928	WC 224.00 (E)	08/21 01:13	STB - Stand by for Barges	 
-41	REX. DOBSON	1243635	WC 256.00 (E)	08/20 23:50	RUN - Run at Normal/Full Capacity	 
-74	ROBERT GREENE	619977	UM 123.00 (N)	08/21 01:03	RUN - Run at Normal/Full Capacity	 
-5T	RON HUNTER	999888	LM 203.00 (S)	08/21 01:15	RUN - Run at Normal/Full Capacity	 
-L25	ROSINTON		TT 231.00 (S)	08/20 07:00	-	 
-2D	ROY BRONSON	456654	HC 392.00 (W)	08/21 01:15	STB - Stand by for Barges	 
-6R	RYAN JAMES	123467	EC 053.00 (E)	08/20 15:59	STB - Stand by for Barges	 
-1S	S PRIORTY	1218070	LM 107.00 (S)	08/20 23:52	STB - Stand by for Barges	 
-1W	SAFETY RUNNER	1225248	WC 408.00 (W)	08/21 00:56	WDK - Waiting on Dock / Facility	 
-71	STEPHEN R. WARDEN	570554	LM 175.00 (S)	08/21 01:09	SBT - Stop for Barge Traffic	 
-2R	SAFETY TEAM	1220249	LM 108.00 (N)	08/20 23:53	STB - Stand by for Barges	 
-1D	SAFETY FIRST	1193706	WC 350.00 (E)	08/21 00:56	RUN - Run at Normal/Full Capacity	 
-E33	SARAH HUNR		CR 159.00 (S)	08/20 07:00	-	 
-72	SONNY IVEY	572994	LM 111.00 (N)	08/21 01:17	RUN - Run at Normal/Full Capacity	 
-30	SUE ELLEN	615166	HC 385.00 (W)	08/20 23:50	STB - Stand by for Barges	 
-7C	TONY ESPINOZA	549164	OR 575.00 (S)	08/21 01:17	RUN - Run at Normal/Full Capacity	 
-18	TOM BEHRINGER	584006	UM 263.00 (S)	08/21 01:16	SRC - Stop River Conditions	 
-7P	TROJAN WARRIOR	570738	WC 247.00 (E)	08/21 01:03	RUN - Run at Normal/Full Capacity	 
-L33	TAMELA LEIG		AK 398.80 (N)	08/20 07:00	-	 
-44	TENNESSEE	624433	KR 001.00 (S)	08/21 01:06	SFS - Stop for Fuel and Stores	 
-6B	TEXAS TRANSPORTER	1311724	HC 384.00 (E)	08/20 23:55	STB - Stand by for Barges	 
-5H	TIM P. STUDDERT	1064025	LM 215.00 (S)	08/21 01:17	RUN - Run at Normal/Full Capacity	 
-6A	TENNESSEE MERCHANT	685581	LM 154.00 (N)	08/21 01:16	SHS - Stop Hall Street Assist Boat	 
-89	TOM FRAZIER	606669	UM 554.00 (S)	08/21 01:03	RUN - Run at Normal/Full Capacity	 
-E67	TOM FREEMAN	891011	TR 425.00 (S)	08/20 07:00	-	 
-95	TUCKER HAML	1316602	TR 259.00 (N)	08/21 00:56	SLK - Stop for Locking	 
-5B	WILLIAM B KLUNK	1072256	LM 715.00 (S)	08/21 01:16	RUN - Run at Normal/Full Capacity	 
-E51	W W HINES		OR 966.00 ()	08/20 07:00	RUN - Run at Normal/Full Capacity	 
-G15	WHITE WING		TR 019.00 (N)	08/20 07:00	-	 
-E79	WM.NECKEL		TR 275.00 (N)	08/20 07:00	-	 
-```
+<table>
+<thead>
+  <tr>
+    <th>ID</th>
+    <th>BOAT NAME</th>
+    <th>OFFICIAL NUMBER</th>
+    <th>LOCATION</th>
+    <th>LOCATION DATE</th>
+    <th>EVENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>6N</td>
+    <td>ANDREW LEBLANC</td>
+    <td>631883</td>
+    <td>LM 237.00 (N)</td>
+    <td>08/20 23:50</td>
+    <td>SBW - Stand by Weather</td>
+  </tr>
+  <tr>
+    <td>B17</td>
+    <td>ADDI BELLE</td>
+    <td></td>
+    <td>TR 259.00 (N)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>AM CENTURY</td>
+    <td>1261315</td>
+    <td>WC 004.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>SWX - Stop-Waiting to Exchange Tow</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>AM COURAGE</td>
+    <td>1266771</td>
+    <td>WT 000.00 (S)</td>
+    <td>08/21 01:32</td>
+    <td>RLB - Run Lite Boat</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>AMERICAN POWER</td>
+    <td>1272101</td>
+    <td>WC 413.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>AM PROGRESS</td>
+    <td>1251090</td>
+    <td>WC 279.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>WDK - Waiting on Dock / Facility</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>AMERICAN RELIANCE</td>
+    <td>1270208</td>
+    <td>WC 463.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>RLK - Run Over Lock</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>AMERICAN SKILL</td>
+    <td>1271964</td>
+    <td>HC 384.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>2Q</td>
+    <td>AMERICAN SPIRIT</td>
+    <td>1252998</td>
+    <td>LM 236.00 (N)</td>
+    <td>08/21 00:56</td>
+    <td>PSB - Port Standby</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>AMERICAN STRONG</td>
+    <td>1272102</td>
+    <td>WC 218.00 (E)</td>
+    <td>08/21 00:56</td>
+    <td>SBP - Stop for Boat Problems</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>AMERICAN VALOR</td>
+    <td>1273719</td>
+    <td>TR 299.00 (N)</td>
+    <td>08/21 00:56</td>
+    <td>WDK - Waiting on Dock / Facility</td>
+  </tr>
+  <tr>
+    <td>3T</td>
+    <td>AMERICAN DREAM</td>
+    <td>1256647</td>
+    <td>WT 048.00 (N)</td>
+    <td>08/21 01:33</td>
+    <td>SHS - Stop Hall Street Assist Boat</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>AMER HERO</td>
+    <td>1258726</td>
+    <td>WC 562.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>AMERICAN LIFE</td>
+    <td>1268290</td>
+    <td>EC 008.00 (E)</td>
+    <td>08/21 00:56</td>
+    <td>PSB - Port Standby</td>
+  </tr>
+  <tr>
+    <td>6Q</td>
+    <td>AMERICAN WAY</td>
+    <td>1251070</td>
+    <td>LM 089.00 (N)</td>
+    <td>08/21 00:56</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>7X</td>
+    <td>AMHERST</td>
+    <td>575823</td>
+    <td>OR 763.00 (N)</td>
+    <td>08/21 01:32</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>7L</td>
+    <td>ANDREW F KOCH</td>
+    <td>642137</td>
+    <td>UM 184.00 (N)</td>
+    <td>08/21 01:35</td>
+    <td>SHS - Stop Hall Street Assist Boat</td>
+  </tr>
+  <tr>
+    <td>3C</td>
+    <td>ANITA EVE SHARP</td>
+    <td>680357</td>
+    <td>WC 271.00 (W)</td>
+    <td>08/21 01:31</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>AVE MARIA</td>
+    <td>1187573</td>
+    <td>HC 385.00 (W)</td>
+    <td>08/21 01:28</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>5D</td>
+    <td>AVERY BROOKS</td>
+    <td>1316595</td>
+    <td>WC 417.00 (W)</td>
+    <td>08/20 18:58</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>8F</td>
+    <td>BRAD BENNINK</td>
+    <td>576108</td>
+    <td>OR 202.00 (N)</td>
+    <td>08/21 01:39</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>9X</td>
+    <td>BAILEY B</td>
+    <td></td>
+    <td>HC 384.00 (E)</td>
+    <td>08/21 01:31</td>
+    <td>WDK - Waiting on Dock / Facility</td>
+  </tr>
+  <tr>
+    <td>J96</td>
+    <td>BIG A</td>
+    <td></td>
+    <td>TT 448.35 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7A</td>
+    <td>CHIEF BILL BROWN</td>
+    <td>589325</td>
+    <td>OR 944.00 (N)</td>
+    <td>08/21 01:24</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>67</td>
+    <td>BOB STITH</td>
+    <td>642652</td>
+    <td>LM 539.00 (N)</td>
+    <td>08/21 01:24</td>
+    <td>SBT - Stop for Barge Traffic</td>
+  </tr>
+  <tr>
+    <td>H4</td>
+    <td>BROWNWTR 11</td>
+    <td></td>
+    <td>WC 534.00 (W)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>C73</td>
+    <td>BROWNWTR 12</td>
+    <td></td>
+    <td>WC 440.00 (E)</td>
+    <td>08/20 07:00</td>
+    <td>SLK - Stop for Locking</td>
+  </tr>
+  <tr>
+    <td>H8</td>
+    <td>BROWNWTR 8</td>
+    <td></td>
+    <td>WC 548.00 (W)</td>
+    <td>08/20 07:00</td>
+    <td>LUS - Laid Up - Surplus</td>
+  </tr>
+  <tr>
+    <td>E85</td>
+    <td>BROWNWTR14</td>
+    <td></td>
+    <td>WC 393.00 (E)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>4G</td>
+    <td>BRYCEMORGAN</td>
+    <td>1277320</td>
+    <td>WC 038.00 (W)</td>
+    <td>08/21 01:33</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>E18</td>
+    <td>BTHOMPSON</td>
+    <td></td>
+    <td>TR 345.00 (N)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5A</td>
+    <td>BUCK LAY</td>
+    <td>643716</td>
+    <td>LM 143.00 (S)</td>
+    <td>08/21 01:31</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>85</td>
+    <td>CHARLES T. JONES</td>
+    <td>575826</td>
+    <td>OR 360.00 (N)</td>
+    <td>08/21 01:39</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>77</td>
+    <td>CAIRO</td>
+    <td>659639</td>
+    <td>LM 686.00 (S)</td>
+    <td>08/21 01:31</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td>CAPT CARL PAGE</td>
+    <td>583466</td>
+    <td>LM 534.00 (N)</td>
+    <td>08/21 01:28</td>
+    <td>STA - Awaiting Tug for Tow Work</td>
+  </tr>
+  <tr>
+    <td>E6</td>
+    <td>CORKY</td>
+    <td></td>
+    <td>HC 386.00 (W)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>52</td>
+    <td>CAPT GREGORY SMITH</td>
+    <td>535940</td>
+    <td>LM 478.00 (S)</td>
+    <td>08/21 01:37</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>5R</td>
+    <td>CAPT SHELBY HOUSE</td>
+    <td>979002</td>
+    <td>LM 254.00 (S)</td>
+    <td>08/21 01:37</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>8T</td>
+    <td>CAPT MICHAEL D COLLINS</td>
+    <td>980668</td>
+    <td>LM 472.00 (N)</td>
+    <td>08/21 01:32</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>A1</td>
+    <td>CUMB HUNTER</td>
+    <td></td>
+    <td>CR 120.00 (N)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>DANNY OCKMAN</td>
+    <td>644041</td>
+    <td>LM 129.00 (S)</td>
+    <td>08/21 01:31</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>E70</td>
+    <td>D WHITFORD</td>
+    <td></td>
+    <td>OR 964.00 ()</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5Q</td>
+    <td>DAN JAWORSKI</td>
+    <td>978046</td>
+    <td>LM 491.00 (N)</td>
+    <td>08/21 01:28</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>75</td>
+    <td>CAPTAIN DAN THOMAS</td>
+    <td>637070</td>
+    <td>OR 786.00 (N)</td>
+    <td>08/21 01:30</td>
+    <td>SBT - Stop for Barge Traffic</td>
+  </tr>
+  <tr>
+    <td>L34</td>
+    <td>DAVID CHOAT</td>
+    <td></td>
+    <td>AK 032.70 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>54</td>
+    <td>DAVID A. LEWIS JR</td>
+    <td>539034</td>
+    <td>OR 964.00 (S)</td>
+    <td>08/21 01:31</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>7W</td>
+    <td>DEL WILKINS</td>
+    <td>624582</td>
+    <td>LM 107.00 (N)</td>
+    <td>08/20 23:50</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>1E</td>
+    <td>DONALD WOOD</td>
+    <td>1257686</td>
+    <td>LM 167.00 (N)</td>
+    <td>08/21 01:30</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>K92</td>
+    <td>DOROTHY JAN</td>
+    <td></td>
+    <td>AK 336.30 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>4F</td>
+    <td>DOUGLAS MURPHY</td>
+    <td>236439</td>
+    <td>WC 323.00 (W)</td>
+    <td>08/20 17:13</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>8E</td>
+    <td>DWAIN STEPHENS</td>
+    <td>578740</td>
+    <td>UM 102.00 (N)</td>
+    <td>08/21 01:30</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>J9</td>
+    <td>EL PASO</td>
+    <td></td>
+    <td>AK 173.20 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>5I</td>
+    <td>EMMANUEL</td>
+    <td>1215414</td>
+    <td>WC 589.00 (W)</td>
+    <td>08/20 15:59</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>E46</td>
+    <td>ERIC HAYNEY</td>
+    <td></td>
+    <td>TR 021.00 (N)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>86</td>
+    <td>GARRON L SNEED</td>
+    <td>560609</td>
+    <td>LM 829.00 (S)</td>
+    <td>08/21 01:28</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>5N</td>
+    <td>R. P. GETTELFINGER</td>
+    <td>568139</td>
+    <td>LM 509.00 (N)</td>
+    <td>08/21 01:35</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>7U</td>
+    <td>GLENN F ZERINGUE</td>
+    <td>614387</td>
+    <td>OR 976.00 (S)</td>
+    <td>08/20 23:50</td>
+    <td>MBT - Make/Break Tow</td>
+  </tr>
+  <tr>
+    <td>3X</td>
+    <td>GLENN HENDON</td>
+    <td></td>
+    <td>OR 861.00 (N)</td>
+    <td>08/21 01:26</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>7E</td>
+    <td>GLENN W JONES</td>
+    <td>641398</td>
+    <td>LM 772.00 (N)</td>
+    <td>08/21 01:37</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>B8</td>
+    <td>HARLEY HALL</td>
+    <td></td>
+    <td>TR 215.00 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>4B</td>
+    <td>HOLY CROSS</td>
+    <td>121522</td>
+    <td>WC 168.00 (W)</td>
+    <td>08/20 21:43</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>94</td>
+    <td>HOUSTON HONOR</td>
+    <td>1311726</td>
+    <td>HC 385.00 (W)</td>
+    <td>08/20 23:56</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>2L</td>
+    <td>JENIFER TRETTER</td>
+    <td>1231025</td>
+    <td>WC 667.00 (E)</td>
+    <td>08/21 00:56</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>2U</td>
+    <td>JERRY TOROK</td>
+    <td>1265746</td>
+    <td>TR 304.00 (N)</td>
+    <td>08/21 00:56</td>
+    <td>WDK - Waiting on Dock / Facility</td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>JACKY L ONEAL</td>
+    <td>565154</td>
+    <td>LM 878.00 (S)</td>
+    <td>08/21 01:25</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>3L</td>
+    <td>JEFF KINDL</td>
+    <td>1266571</td>
+    <td>HC 371.00 (W)</td>
+    <td>08/21 01:31</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>76</td>
+    <td>JEFFBOAT</td>
+    <td>640345</td>
+    <td>OR 966.00 (N)</td>
+    <td>08/21 01:26</td>
+    <td>SWL - Lock Delays</td>
+  </tr>
+  <tr>
+    <td>J0</td>
+    <td>JOBETH JAN</td>
+    <td></td>
+    <td>AK 089.60 (N)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>2J</td>
+    <td>JOE B. WARD</td>
+    <td>1231040</td>
+    <td>WC 558.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>L35</td>
+    <td>JOHN JANOUS</td>
+    <td></td>
+    <td>LM 586.40 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>7K</td>
+    <td>JOHN D NUGENT</td>
+    <td>562078</td>
+    <td>UM 369.00 (N)</td>
+    <td>08/21 01:33</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>6X</td>
+    <td>KENNY BILLIOT</td>
+    <td></td>
+    <td>LM 263.00 (N)</td>
+    <td>08/21 01:37</td>
+    <td>SHS - Stop Hall Street Assist Boat</td>
+  </tr>
+  <tr>
+    <td>7J</td>
+    <td>KENNY EADS</td>
+    <td>614212</td>
+    <td>OR 535.00 (S)</td>
+    <td>08/21 01:39</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>9P</td>
+    <td>KRISTIN</td>
+    <td>1247931</td>
+    <td>WC 344.00 (W)</td>
+    <td>08/20 23:03</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td>LARRY Y. STRAIN</td>
+    <td>623460</td>
+    <td>LM 268.00 (S)</td>
+    <td>08/21 01:32</td>
+    <td>SHS - Stop Hall Street Assist Boat</td>
+  </tr>
+  <tr>
+    <td>7Y</td>
+    <td>LAURA M</td>
+    <td>1315595</td>
+    <td>WC 308.00 (E)</td>
+    <td>08/21 01:34</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>65</td>
+    <td>LEO G. LUTGRING</td>
+    <td>594624</td>
+    <td>IR 095.00 (S)</td>
+    <td>08/21 01:34</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>6D</td>
+    <td>LILY BROOKS</td>
+    <td>1302688</td>
+    <td>WC 562.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>2Y</td>
+    <td>LISA MARIE</td>
+    <td>1223317</td>
+    <td>HC 378.00 (W)</td>
+    <td>08/21 00:47</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>3A</td>
+    <td>MARK L DUPLANTIS</td>
+    <td>1209682</td>
+    <td>WC 241.00 (E)</td>
+    <td>08/21 01:30</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>7V</td>
+    <td>MIKE SANDERS</td>
+    <td>1214534</td>
+    <td>LM 543.00 (N)</td>
+    <td>08/21 01:31</td>
+    <td>SRC - Stop River Conditions</td>
+  </tr>
+  <tr>
+    <td>87</td>
+    <td>MIKE WEISEND</td>
+    <td>1231791</td>
+    <td>LM 557.00 (S)</td>
+    <td>08/21 01:34</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>09</td>
+    <td>MAGNOLIA</td>
+    <td>1252791</td>
+    <td>HC 378.00 (W)</td>
+    <td>08/20 15:59</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>5X</td>
+    <td>MARK GLAAB</td>
+    <td>1291342</td>
+    <td>HC 384.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>WDK - Waiting on Dock / Facility</td>
+  </tr>
+  <tr>
+    <td>64</td>
+    <td>MARK STAAB</td>
+    <td>652922</td>
+    <td>UM 068.00 (S)</td>
+    <td>08/21 01:35</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>3G</td>
+    <td>MARTIN J. PELLEGRIN</td>
+    <td>625777</td>
+    <td>WC 396.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>2I</td>
+    <td>MARY JONES</td>
+    <td></td>
+    <td>OR 862.00 (N)</td>
+    <td>08/21 00:58</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>5S</td>
+    <td>MIKE HOWARD</td>
+    <td>644042</td>
+    <td>PA 048.00 (S)</td>
+    <td>08/21 01:37</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>2H</td>
+    <td>MIKE MITCHELL</td>
+    <td>624349</td>
+    <td>WC 165.00 (E)</td>
+    <td>08/21 01:32</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>K57</td>
+    <td>MISS ALEX</td>
+    <td></td>
+    <td>AK 188.80 (N)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>62</td>
+    <td>MISS CARTER W</td>
+    <td>1334369</td>
+    <td>WC 289.00 (W)</td>
+    <td>08/21 01:34</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>66</td>
+    <td>MISS JACKIE BROWN</td>
+    <td>598151</td>
+    <td>OR 318.00 (N)</td>
+    <td>08/21 01:32</td>
+    <td>SFS - Stop for Fuel and Stores</td>
+  </tr>
+  <tr>
+    <td>0Z</td>
+    <td>MISTER MAC</td>
+    <td></td>
+    <td>WC 174.00 (E)</td>
+    <td>08/20 18:43</td>
+    <td>AOD - Awaiting Orders</td>
+  </tr>
+  <tr>
+    <td>E75</td>
+    <td>N.BUFORD</td>
+    <td></td>
+    <td>TR 023.00 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>2X</td>
+    <td>NICK LONNEMANN</td>
+    <td>1266535</td>
+    <td>LM 867.00 (S)</td>
+    <td>08/21 00:56</td>
+    <td>SFS - Stop for Fuel and Stores</td>
+  </tr>
+  <tr>
+    <td>7D</td>
+    <td>OHIO</td>
+    <td></td>
+    <td>OR 330.00 (N)</td>
+    <td>08/21 01:36</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>OTTO</td>
+    <td>1307459</td>
+    <td>HC 384.00 (E)</td>
+    <td>08/21 01:39</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>80</td>
+    <td>PAUL BROTZGE</td>
+    <td>559099</td>
+    <td>UM 053.00 (S)</td>
+    <td>08/21 01:33</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>7S</td>
+    <td>PAUL TOBIN</td>
+    <td>1221907</td>
+    <td>OR 657.00 (N)</td>
+    <td>08/21 01:31</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>5C</td>
+    <td>CAPTAIN RODNEY E STOKES</td>
+    <td>1078466</td>
+    <td>LM 443.00 (N)</td>
+    <td>08/21 01:29</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>9Q</td>
+    <td>R HAGEBOLS</td>
+    <td>1325577</td>
+    <td>EC 111.00 (E)</td>
+    <td>08/20 12:43</td>
+    <td>PSB - Port Standby</td>
+  </tr>
+  <tr>
+    <td>4A</td>
+    <td>RICKEY HUGHES</td>
+    <td>551830</td>
+    <td>LM 237.00 (S)</td>
+    <td>08/21 01:29</td>
+    <td>SBT - Stop for Barge Traffic</td>
+  </tr>
+  <tr>
+    <td>9O</td>
+    <td>R.J CHERAMIE</td>
+    <td>647616</td>
+    <td>EC 016.00 (E)</td>
+    <td>08/21 01:34</td>
+    <td>SCW - Stop Conditions Weather</td>
+  </tr>
+  <tr>
+    <td>F15</td>
+    <td>R.SHELTON</td>
+    <td></td>
+    <td>TR 022.00 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>RANDY ANDERSON</td>
+    <td>580067</td>
+    <td>OR 864.00 (S)</td>
+    <td>08/21 01:31</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>78</td>
+    <td>REPENTANCE</td>
+    <td>1133928</td>
+    <td>WC 224.00 (E)</td>
+    <td>08/21 01:28</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>REX. DOBSON</td>
+    <td>1243635</td>
+    <td>WC 256.00 (E)</td>
+    <td>08/20 23:50</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>74</td>
+    <td>ROBERT GREENE</td>
+    <td>619977</td>
+    <td>UM 126.00 (N)</td>
+    <td>08/21 01:33</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>5T</td>
+    <td>RON HUNTER</td>
+    <td>999888</td>
+    <td>LM 201.00 (S)</td>
+    <td>08/21 01:30</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>L25</td>
+    <td>ROSINTON</td>
+    <td></td>
+    <td>TT 231.00 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>2D</td>
+    <td>ROY BRONSON</td>
+    <td>456654</td>
+    <td>HC 392.00 (W)</td>
+    <td>08/21 01:36</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>6R</td>
+    <td>RYAN JAMES</td>
+    <td>123467</td>
+    <td>EC 053.00 (E)</td>
+    <td>08/20 15:59</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>1S</td>
+    <td>S PRIORTY</td>
+    <td>1218070</td>
+    <td>LM 107.00 (S)</td>
+    <td>08/20 23:52</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>1W</td>
+    <td>SAFETY RUNNER</td>
+    <td>1225248</td>
+    <td>WC 408.00 (W)</td>
+    <td>08/21 00:56</td>
+    <td>WDK - Waiting on Dock / Facility</td>
+  </tr>
+  <tr>
+    <td>71</td>
+    <td>STEPHEN R. WARDEN</td>
+    <td>570554</td>
+    <td>LM 175.00 (S)</td>
+    <td>08/21 01:25</td>
+    <td>SBT - Stop for Barge Traffic</td>
+  </tr>
+  <tr>
+    <td>2R</td>
+    <td>SAFETY TEAM</td>
+    <td>1220249</td>
+    <td>LM 108.00 (N)</td>
+    <td>08/20 23:53</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>1D</td>
+    <td>SAFETY FIRST</td>
+    <td>1193706</td>
+    <td>WC 350.00 (E)</td>
+    <td>08/21 00:56</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>E33</td>
+    <td>SARAH HUNR</td>
+    <td></td>
+    <td>CR 159.00 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>72</td>
+    <td>SONNY IVEY</td>
+    <td>572994</td>
+    <td>LM 113.00 (N)</td>
+    <td>08/21 01:33</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>SUE ELLEN</td>
+    <td>615166</td>
+    <td>HC 385.00 (W)</td>
+    <td>08/20 23:50</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>7C</td>
+    <td>TONY ESPINOZA</td>
+    <td>549164</td>
+    <td>OR 577.00 (S)</td>
+    <td>08/21 01:33</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>TOM BEHRINGER</td>
+    <td>584006</td>
+    <td>UM 263.00 (S)</td>
+    <td>08/21 01:32</td>
+    <td>SRC - Stop River Conditions</td>
+  </tr>
+  <tr>
+    <td>7P</td>
+    <td>TROJAN WARRIOR</td>
+    <td>570738</td>
+    <td>WC 245.00 (E)</td>
+    <td>08/21 01:35</td>
+    <td>SBT - Stop for Barge Traffic</td>
+  </tr>
+  <tr>
+    <td>L33</td>
+    <td>TAMELA LEIG</td>
+    <td></td>
+    <td>AK 398.80 (N)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>TENNESSEE</td>
+    <td>624433</td>
+    <td>KR 001.00 (S)</td>
+    <td>08/21 01:36</td>
+    <td>SFS - Stop for Fuel and Stores</td>
+  </tr>
+  <tr>
+    <td>6B</td>
+    <td>TEXAS TRANSPORTER</td>
+    <td>1311724</td>
+    <td>HC 384.00 (E)</td>
+    <td>08/20 23:55</td>
+    <td>STB - Stand by for Barges</td>
+  </tr>
+  <tr>
+    <td>5H</td>
+    <td>TIM P. STUDDERT</td>
+    <td>1064025</td>
+    <td>LM 213.00 (S)</td>
+    <td>08/21 01:32</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>6A</td>
+    <td>TENNESSEE MERCHANT</td>
+    <td>685581</td>
+    <td>LM 154.00 (N)</td>
+    <td>08/21 01:31</td>
+    <td>SHS - Stop Hall Street Assist Boat</td>
+  </tr>
+  <tr>
+    <td>89</td>
+    <td>TOM FRAZIER</td>
+    <td>606669</td>
+    <td>UM 552.00 (S)</td>
+    <td>08/21 01:34</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>E67</td>
+    <td>TOM FREEMAN</td>
+    <td>891011</td>
+    <td>TR 425.00 (S)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>95</td>
+    <td>TUCKER HAML</td>
+    <td>1316602</td>
+    <td>TR 259.00 (N)</td>
+    <td>08/21 00:56</td>
+    <td>SLK - Stop for Locking</td>
+  </tr>
+  <tr>
+    <td>5B</td>
+    <td>WILLIAM B KLUNK</td>
+    <td>1072256</td>
+    <td>LM 712.00 (S)</td>
+    <td>08/21 01:31</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>E51</td>
+    <td>W W HINES</td>
+    <td></td>
+    <td>OR 966.00 ()</td>
+    <td>08/20 07:00</td>
+    <td>RUN - Run at Normal/Full Capacity</td>
+  </tr>
+  <tr>
+    <td>G15</td>
+    <td>WHITE WING</td>
+    <td></td>
+    <td>TR 019.00 (N)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>E79</td>
+    <td>WM.NECKEL</td>
+    <td></td>
+    <td>TR 275.00 (N)</td>
+    <td>08/20 07:00</td>
+    <td>-</td>
+  </tr>
+</tbody>
+</table>
 
 ## NAVCEN
 
