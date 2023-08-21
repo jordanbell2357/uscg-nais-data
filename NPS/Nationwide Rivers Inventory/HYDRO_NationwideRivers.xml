@@ -1,0 +1,470 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Susan Rosebrough, National Park Service, Project Manager</origin>
+        <pubdate>20160101</pubdate>
+        <title>HYDRO_NationwideRiversInventory_ln</title>
+        <edition>Second</edition>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The file represents the line data for the river segments that are on the NRI list in the contiguous United States as well as Alaska, Hawaii, and Puerto Rico. The data was created by extracting the river segments from the NHD data layer with a 1:24,000 scale.</abstract>
+      <purpose>The Nationwide Rivers Inventory (NRI) is a listing of more than 3,200 free-flowing river segments in the United States that are believed to possess one or more "outstandingly remarkable" natural or cultural values judged to be of more than local or regional significance. Under a 1979 Presidential directive, and related Council on Environmental Quality procedures, all federal agencies must seek to avoid or mitigate actions that would adversely affect one or more NRI segments. The NRI is a source of information for statewide river assessments and federal agencies involved with stream-related projects. For any group concerned with ecosystem management, the inventory can provide the location of the nearest naturally- functioning system which might serve as a reference for monitoring activities. It also serves as a listing of plant and animal species for restoration efforts on a similar section of river. For the recreationalist, it provides a listing of free-flowing, relatively undisturbed river segments.
+
+ This data set is for the contiguous United States as well as Alaska, Hawaii, and Puerto Rico and contains 3,213 river segments. This update includes:
+
+• Updating the geospatial resolution/ scale to 1:24K
+• Removing duplicate and overlapping segments
+• Removing segments or portions of segments that were designated into the National WSR System
+• Creating a geodatabase with additional attribute fields. Attributes from the original GIS layer were transferred over.  Known information on the classification, official NRI list, number of river miles (calculated from GIS) and management entity (federal) were filled in.  Notes were made when changes were made to the data.  Not all the attributes in the database are filled in and select rivers have additional information.   
+
+The new number of NRI river segments is 3,213 (down from 3,439 in the original access files and 2,805  in the original GIS shape file.) Many more segments were modified to remove the designated WSR reaches.  Candidate rivers that were found eligible through 5(a) and 5(d) WSR studies since 1993 by the USFS, USFWS, BLM, and NPS in OR have not been added to this database.  In order to add these to the official NRI list, the Secretary of Interior would need to announce this addition and notify other federal agencies of this action.  No new studies would be needed.  It is just a matter of compiling existing studies and data.
+</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20150201</begdate>
+          <enddate>20150228</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>United States, including the continental 48 states, Alaska, and Puerto Rico</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-165.313288</westbc>
+        <eastbc>-65.716232</eastbc>
+        <northbc>68.498026</northbc>
+        <southbc>18.266672</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>IOS 19115 topic category</themekt>
+        <themekey>Nationwide Rivers Inventory</themekey>
+        <themekey>NRI</themekey>
+        <themekey>National Park Service</themekey>
+        <themekey>NPS</themekey>
+      </theme>
+    </keywords>
+    <accconst>See Use Limitation/Constraints</accconst>
+    <useconst>The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics are not legal documents and are not intended to be used as such.The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data.The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on a computer system at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on another system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Park Service</cntorg>
+          <cntper>Susan Rosebrough</cntper>
+        </cntorgp>
+        <cntpos>Project Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>909 1st</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98104</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>2062204121</cntvoice>
+        <cntemail>susan_rosebrough@nps.gov</cntemail>
+        <hours>9am to 5pm Monday through Friday</hours>
+        <cntinst>Please contact through email.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>NPS</datacred>
+    <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.5.0.6491</native>
+  </idinfo>
+  <dataqual>
+    <complete>Update emphasizes the NPS in the “Management Area Name” attribute though the USFS, USFWS, and BLM are included. This field and its associated fields will be updated as opportunities become available. 
+
+Offical_NRI_List: Yes, No, Modified: The Pacific West Region and most of the Intermountain Region use the “Modified” option from this field to describe NRI rivers that have been modified by Wild and Scenic River designations. All other regions do not. This is something that may be carried into other regions in the future or changed completely. 
+
+Create Date: This data came directly from the National Hydrography Dataset from the United States Geological Survey. The “FDate” field from the NHD data associated with each river was transferred over to the “Create Date” field in the updated NRI. In the updated data only the Alaska Region, Midwest Region, Northeast Region, National Capital Region, and Southeast Region have this “create Date” field populated. During the update for the Pacific West Intermountain Regions populating this field wasn’t required. 
+
+Edit Date: This is simply the date that the update occurred. In the updated data only the Alaska Region, Midwest Region, Northeast Region, National Capital Region, and Southeast Region have this “Edit Date” field populated. During the update for the Pacific West and Intermountain Regions populating this field wasn’t required.
+
+GNIS_Name: The GNIS_Name field contains the name that the National Hydrography Dataset (NHD) gives the river segment associated with each data entry. The Alaska Region, the Midwest Region, the northeast Region, and the southeast Region have this field populated while the Pacific West Region and the Intermountain Region do not. During the update for the Pacific West Intermountain Regions populating this field wasn’t required. When the NHD had no name associated with the applicable segment a &lt;Null&gt; value is present. 
+</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <pubdate>20150201</pubdate>
+            <title>National Hydrography Dataset</title>
+          </citeinfo>
+        </srccite>
+        <typesrc>onLine</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>20150201</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>February 2015</srccurr>
+        </srctime>
+        <srccitea>NHD</srccitea>
+        <srccontr>This update was derived from the Nationwide Hydrography Dataset (NHD) created by the U.S. Geological Survey. We utilized the most recent high resolution NHD during the time of this update: February 2015.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Using the original Nationwide Rivers Inventory geospatial data as a reference we selected those NHD segments matching our NRI reach descriptions and then preformed an attribute transfer to the updated segments.</procdesc>
+        <procdate>20150701</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>3213</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>HYDRO_NationwideRiversInventory_ln</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PrjID</attrlabl>
+        <attrdef>This is the ID transfered over from the original NRI GIS data associated with each segment. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>River</attrlabl>
+        <attrdef>The offical name of the river. </attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Reach</attrlabl>
+        <attrdef>Description of where the NRI segment is physically located. </attrdef>
+        <attrdefs>Managing Agency</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>State1</attrlabl>
+        <attrdef>State that the majority of the NRI segment flows within- usually the state containing the upstream portion of the river segment. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Original_Miles</attrlabl>
+        <attrdef>The miles associated with the original NRI Access files and GIS data.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>State2</attrlabl>
+        <attrdef>State the the NRI segment may flow into out of State1</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>County</attrlabl>
+        <attrdef>The county or counties that an NRI river segment flows within.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Description</attrlabl>
+        <attrdef>The description provided by various managing agencies (from state up to the federal level) when each river segment is brought into the NRI. It is a narrative description of each rivers outstandingly remarkable values. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Recreational</attrlabl>
+        <attrdef>"Outstandingly Remarkable Value:" recreational opportunities are, or have the potential to be, popular enough to attract visitors from throughout or beyond the region of comparison or are unique or rare within the region. Visitors are willing to travel long distances to use the river resources for recreational purposes. River-related opportunities could include, but are not limited to, sightseeing, wildlife observation, camping, photography, hiking, fishing and boating.
+Interpretive opportunities may be exceptional and attract, or have the potential to attract, visitors from outside the region of comparison.
+The river may provide, or have the potential to provide, settings for national or regional usage or competitive events.
+</attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Scenic</attrlabl>
+        <attrdef>"Outstandingly Remarkable Value:" the landscape elements of landform, vegetation, water, color, and related factors result in notable or exemplary visual features and/or attractions. When analyzing scenic values, additional factors -- such as seasonal variations in vegetation, scale of cultural modifications, and the length of time negative intrusions are viewed -- may be considered. Scenery and visual attractions may be highly diverse over the majority of the river or river segment.</attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Geologic</attrlabl>
+        <attrdef>"Outstandingly Remarkable Value:" the river, or the area within the river corridor, contains one or more example of a geologic feature, process or phenomenon that is unique or rare within the region of comparison. The feature(s) may be in an unusually active stage of development, represent a "textbook" example, and/or represent a unique or rare combination of geologic features (erosional, volcanic, glacial, or other geologic structures). </attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Fish</attrlabl>
+        <attrdef>"Outstandingly Remarkable Value:" Fish values may be judged on the relative merits of either fish populations, habitat, or a combination of these river-related conditions.
+Populations: The river is nationally or regionally an important producer of resident and/or anadromous fish species. Of particular significance is the presence of wild stocks and/or federal or state listed (or candidate) threatened, endangered or sensitive species. Diversity of species is an important consideration and could, in itself, lead to a determination of "outstandingly remarkable."
+Habitat: The river provides exceptionally high quality habitat for fish species indigenous to the region of comparison. Of particular significance is habitat for wild stocks and/or federal or state listed (or candidate) threatened, endangered or sensitive species. Diversity of habitats is an important consideration and could, in itself, lead to a determination of "outstandingly remarkable."</attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Wildlife</attrlabl>
+        <attrdef>"Outstandingly Remarkable Value:" wildlife values may be judged on the relative merits of either terrestrial or aquatic wildlife populations or habitat or a combination of these conditions.
+Populations: The river, or area within the river corridor, contains nationally or regionally important populations of indigenous wildlife species. Of particular significance are species considered to be unique, and/or populations of federal or state listed (or candidate) threatened, endangered or sensitive species. Diversity of species is an important consideration and could, in itself, lead to a determination of "outstandingly remarkable."
+Habitat: The river, or area within the river corridor, provides exceptionally high quality habitat for wildlife of national or regional significance, and/or may provide unique habitat or a critical link in habitat conditions for federal or state listed (or candidate) threatened, endangered or sensitive species. Contiguous habitat conditions are such that the biological needs of the species are met. Diversity of habitats is an important consideration and could, in itself, lead to a determination of "outstandingly remarkable."</attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Historic</attrlabl>
+        <attrdef>"Outstandingly Remarkable Value:" the river or area within the river corridor contains a site(s) or feature(s) associated with a significant event, an important person, or a cultural activity of the past that was rare or one-of-a-kind in the region. Many such sites are listed on the National Register of Historic Places. A historic site(s) and/or features(s) is 50 years old or older in most cases. Pre-history: The river, or area within the river corridor, contains a site(s) where there is evidence of occupation or use by Native Americans. Sites must have unique or rare characteristics or exceptional human interest value(s). Sites may have national or regional importance for interpreting prehistory; may be rare and represent an area where a culture or cultural period was first identified and described; may have been used concurrently by two or more cultural groups; and/or may have been used by cultural groups for rare sacred purposes. Many such sites are listed on the National Register of Historic Places, which is administered by the NPS.</attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Cultural</attrlabl>
+        <attrdef>"Outstandingly Remarkable Value:" The river or area within the river corridor contains archaelogical sites or areas significant to traditional cultures. Examples might be American Indian burial grounds, petroglyphs, the oldest known human use site in a region, or streams that support traditional agriculture, subsistence fishing, or religious ceremonies. </attrdef>
+        <attrdefs>NPS </attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Other</attrlabl>
+        <attrdef>"Outstandingly Remarkable Value:"  While no specific national evaluation guidelines have been developed for the "other similar values" category, assessments of additional river-related values consistent with the foregoing guidance may be developed -- including, but not limited to, hydrology, paleontology and botany resources.</attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Classification</attrlabl>
+        <attrdef>The Interagency Guidelines provide the following direction for establishing preliminary classifications for eligible rivers:
+
+Wild rivers (W): Those rivers or sections of rivers that are free of impoundments and generally inaccessible except by trail, with watersheds or shorelines essentially primitive and waters unpolluted. These represent vestiges of primitive America.
+
+Scenic rivers (S): Those rivers or sections of rivers that are free of impoundments, with shorelines or watersheds still largely primitive and shorelines largely undeveloped, but accessible in places by roads.
+
+Recreational rivers (R): Those rivers or sections of rivers that are readily accessible by road or railroad, that may have some development along their shorelines, and that may have undergone some impoundment or diversion in the past.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Management_Area_Name</attrlabl>
+        <attrdef>Name of the federally managed lands that the NRI segment flows within. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Management_Entity_Fed1</attrlabl>
+        <attrdef>One of the four federal agencies (NPS, USFS, BLM, and USFWS) managing the land that the NRI segment flows within. Associated with Management_Area_Name .</attrdef>
+        <attrdefs>NPS, USFS, BLM, and USFWS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Management_Entity_Fed2</attrlabl>
+        <attrdef>One of the four federal agencies (NPS, USFS, BLM, and USFWS) that manages land that the NRI segment may flow within other than the agency listed in Management_Enity_Fed1</attrdef>
+        <attrdefs>NPS, USFS, BLM, and USFWS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Management_Entity_Other1</attrlabl>
+        <attrdef>Any entity other than one of the four federal agencies (NPS, USFS, BLM, and USFWS) that may manage land that the NRI segment flows within. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Management_Entity_Other2</attrlabl>
+        <attrdef>Any entity other than one of the four federal agencies (NPS, USFS, BLM, and USFWS) that may manage land that the NRI segment flows within. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>UnitCode</attrlabl>
+        <attrdef>The code associated with each National Park unit.  </attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NPS_Region</attrlabl>
+        <attrdef>The National Park region that the NRI segment flows within. </attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Website</attrlabl>
+        <attrdef>Website associated with NRI segment. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Official_NRI_List</attrlabl>
+        <attrdef>Yes, No, or Modified. Denotes whether or not a segment is on the Official NRI List. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>YR_Listed</attrlabl>
+        <attrdef>The year that a river segment was first listed on the NRI. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>YR_Updated</attrlabl>
+        <attrdef>The year that a river seg,ent was updated. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>WSR_Study</attrlabl>
+        <attrdef>Wild and Scenic River study is determined by Yes or No. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Study_Weblink_Or_Name</attrlabl>
+        <attrdef>URL providing a Wild and Scenic River Study (if applicable.)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Notes</attrlabl>
+        <attrdef>Lists modifications and reasonings behind modifications from original data. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>MapMethod</attrlabl>
+        <attrdef>Describes how data was created. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>MapSource</attrlabl>
+        <attrdef>Denotes source data used to create update. </attrdef>
+        <attrdefs>National Hydrography Dataset</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YrListed_YrUpdated</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SourceDate</attrlabl>
+        <attrdef>Date that the source data was published. </attrdef>
+        <attrdefs>National Hydrography Dataset</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CreateDate</attrlabl>
+        <attrdef>Date that the individual segment source data associated with NRI segment was created. </attrdef>
+        <attrdefs>National Hydrography Dataset</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Revision</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Addition_Deletion</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Revision_Addition_Deletion_Notes</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>EditDate</attrlabl>
+        <attrdef>The date that the updated NRI data was created. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Partner_Website</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Edit_by</attrlabl>
+        <attrdef>Name of the individual who created the updated data. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>OriginatingInstitution</attrlabl>
+        <attrdef>Institution managing the update process. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>GNIS_Name</attrlabl>
+        <attrdef>Name of the river segment according to the National Hydrography Dataset .</attrdef>
+        <attrdefs>USGS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GIS_Miles</attrlabl>
+        <attrdef>The miles calulated within ArcMap from the beginning to the end of the NRI segment. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>NRI_ID</attrlabl>
+        <attrdef>This is the unique ID created for each segment of each river. </attrdef>
+        <attrdefs>NPS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ORV</attrlabl>
+        <attrdef>All ORV fields combined for visualization purposes. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ImageURL</attrlabl>
+        <attrdef>URL pointing to image associated with river segment. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Watershed_Name6</attrlabl>
+        <attrdef>Name of watershed NRI segment flows within at a hydrological unit of 6 </attrdef>
+        <attrdefs>National Hydrography Dataset</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Watershed_Name8</attrlabl>
+        <attrdef>Name of watershed NRI segment flows within at a hydrological unit of 8. </attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Photo_Credit</attrlabl>
+        <attrdef>Copyright/ Right of Use information associated with PhotoURL field.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>HUC_Code6</attrlabl>
+        <attrdef>Hydrological code associated with the hydrological unit (6) in which the NRI segment flows.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Last_Edited_User</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Last_Edited_Date</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>HUC_Code8</attrlabl>
+        <attrdef>Hydrological code associated with the hydrological unit (8) in which the NRI segment flows.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Length</attrlabl>
+        <attrdef>Length of feature in internal units.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Nationwide Rivers Inventory</eaover>
+      <eadetcit>Managing Agencies USFS, NPS, BLM, FWS</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NPS</cntorg>
+          <cntper>DOI National Parks Service</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98104</postal>
+        </cntaddr>
+        <cntvoice>2062204121 </cntvoice>
+        <cntinst>Please contact through email.</cntinst>
+      </cntinfo>
+    </distrib>
+    <distliab>See access and use constraints information.</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20170830</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>National Park Service</cntorg>
+          <cntper>Susan Rosebrough</cntper>
+        </cntorgp>
+        <cntpos>Project Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>909 1st Ave.</address>
+          <city>Seattle</city>
+          <state>WA</state>
+          <postal>98104</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>2062204121</cntvoice>
+        <cntemail>susan_rosebrough@nps.gov</cntemail>
+        <hours>9am to 5pm Monday through Friday</hours>
+        <cntinst>Please contact through email.</cntinst>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
